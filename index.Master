@@ -53,23 +53,27 @@
 
 <!-- Start Header Top
 ============================================= -->
-<div class="top-bar-area bg-dark inc-border text-light">
+<div class="top-bar-area bg-dark inc-border text-light" style="height:90px;">
     <div class="container">
         <div class="row">
             <div class="col-md-8 address-info text-left">
                 <div class="info">
                     <ul>
-                        <li class="social">
+                        <li>
+                             <a  href="index.aspx">
+                    <img src="assets/img/cbaLogofirst.png" class="logo" alt="Logo">
+                </a>
+                        </li>
+                       
+                        <li>
+                            <i class="fas fa-phone"></i> Information: <strong>1 909 869 7659</strong>
+                        </li>
+                       
+                         <li class="social">
                             <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://twitter.com/calpolypomona"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.linkedin.com/school/cal-poly-pomona/"><i class="fab fa-linkedin-in"></i></a>
                             <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube"></i></a>
-                        </li>
-                        <li>
-                            <i class="fas fa-phone"></i> Information: <strong>1 909 869 7659</strong>
-                        </li>
-                        <li>
-                            <i class="fas fa-phone"></i>Emergency: <strong>1 909 869 3070</strong>
                         </li>
                     </ul>
                 </div>
@@ -95,7 +99,7 @@
 <header id="home">
 
     <!-- Start Navigation -->
-    <nav class="navbar top-pad navbar-default attr-border-none navbar-fixed navbar-transparent white bootsnav">
+    <nav class="navbar top-pad navbar-default attr-border-none navbar-fixed navbar-transparent white bootsnav" style="height:90px;">
 
         <!-- Start Top Search -->
         <div class="container">
@@ -130,15 +134,15 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand" href="index.aspx">
-                    <img src="assets/img/logo.png" class="logo logo-display" alt="Logo">
+                    
                     <img src="assets/img/cbaLogofirst.png" class="logo logo-scrolled" alt="Logo">
                 </a>
             </div>
             <!-- End Header Navigation -->
 
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
+            <div class="collapse navbar-collapse" id="navbar-menu" style="margin-bottom:5px;">
+                <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#" >
                     <li>
                         <a href="index.aspx">Home</a>
                     </li>
