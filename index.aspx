@@ -1,191 +1,10 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="index.aspx.vb" Inherits="CalPolyPomona.index" %>
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <!-- ========== Meta Tags ========== -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Educom - Education & LMS Template">
-
-    <!-- ========== Page Title ========== -->
-    <title>Masters In Business Analytics</title>
-
-    <!-- ========== Favicon Icon ========== -->
-    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
-
-    <!-- ========== Start Stylesheet ========== -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="assets/css/flaticon-set.css" rel="stylesheet" />
-    <link href="assets/css/themify-icons.css" rel="stylesheet" />
-    <link href="assets/css/magnific-popup.css" rel="stylesheet" />
-    <link href="assets/css/owl.carousel.min.css" rel="stylesheet" />
-    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet" />
-    <link href="assets/css/animate.css" rel="stylesheet" />
-    <link href="assets/css/bootsnav.css" rel="stylesheet" />
-    <link href="style.css" rel="stylesheet">
-    <link href="assets/css/responsive.css" rel="stylesheet" />
-    <!-- ========== End Stylesheet ========== -->
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="assets/js/html5/html5shiv.min.js"></script>
-    <script src="assets/js/html5/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- ========== Google Fonts ========== -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800" rel="stylesheet">
-
-</head>
-
-<body>
-
-<!-- Preloader Start -->
-<div class="se-pre-con"></div>
-<!-- Preloader Ends -->
-
-<!-- Start Header Top
+<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/index.Master" CodeBehind="index.aspx.vb" Inherits="CalPolyPomona.index1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <!-- Start Banner
 ============================================= -->
-<div class="top-bar-area bg-dark inc-border text-light">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 address-info text-left">
-                <div class="info">
-                    <ul>
-                        <li class="social">
-                            <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook-f"></i></a>
-                            <a href="https://twitter.com/calpolypomona"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.linkedin.com/school/cal-poly-pomona/"><i class="fab fa-linkedin-in"></i></a>
-                            <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube"></i></a>
-                        </li>
-                        <li>
-                            <i class="fas fa-phone"></i> Information: <strong>1 909 869 7659</strong>
-                        </li>
-                        <li>
-                            <i class="fas fa-phone"></i>Emergency: <strong>1 909 869 3070</strong>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!--                <div class="col-md-4 link text-right">-->
-            <!--                    <ul>-->
-            <!--                        <li>-->
-            <!--                            <a href="#">Register</a>-->
-            <!--                        </li>-->
-            <!--                        <li>-->
-            <!--                            <a href="#">Login</a>-->
-            <!--                        </li>-->
-            <!--                    </ul>-->
-            <!--                </div>                -->
-        </div>
-    </div>
-</div>
-<!-- End Header Top -->
-
-<!-- Header
-============================================= -->
-<header id="home">
-
-    <!-- Start Navigation -->
-    <nav class="navbar top-pad navbar-default attr-border-none navbar-fixed navbar-transparent white bootsnav">
-
-        <!-- Start Top Search -->
-        <div class="container">
-            <div class="row">
-                <div class="top-search">
-                    <div class="input-group">
-                        <form action="#">
-                            <input type="text" name="text" class="form-control" placeholder="Search">
-                            <button type="submit">
-                                <i class="ti-search"></i>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Top Search -->
-
-        <div class="container">
-
-            <!-- Start Atribute Navigation -->
-            <div class="attr-nav">
-                <ul>
-                    <li class="search"><a href="#"><i class="ti-search"></i></a></li>
-                </ul>
-            </div>
-            <!-- End Atribute Navigation -->
-
-            <!-- Start Header Navigation -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="index.aspx">
-                    <img src="assets/img/logo.png" class="logo logo-display" alt="Logo">
-                    <img src="assets/img/cbaLogofirst.png" class="logo logo-scrolled" alt="Logo">
-                </a>
-            </div>
-            <!-- End Header Navigation -->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
-                    <li>
-                        <a href="index.aspx">Home</a>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="about-the-program.aspx">About the Program</a></li>
-                            <li><a href="about-accreditation_and_ranking.aspx">Accredition and Ranking</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="program.aspx">Program</a>
-                    </li>
-                    <li>
-                        <a href="courses.aspx">Courses</a>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Organization</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">Directors</a></li>
-                            <li><a href="organization-faculty.aspx">Faculty</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Admission</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="admission-admission.aspx">Admission</a></li>
-                            <li><a href="admission-application.aspx">Appliction</a></li>
-                            <li><a href="admission-tuition.aspx">Tuition</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#">Research</a>
-                    </li>
-                    <li>
-                        <a href="contact.aspx">Contact</a>
-                    </li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-        </div>
-    </nav>
-    <!-- End Navigation -->
-
-</header>
-<!-- End Header -->
-
-<!-- Start Banner
-============================================= -->
-<div class="banner-area">
+<div class="banner-area" >
     <div id="bootcarousel" class="carousel text-light top-pad text-dark slide animate_text" data-ride="carousel">
 
         <!-- Wrapper for slides -->
@@ -327,7 +146,7 @@
                     <blockquote>
                         MS in Business Analytics program is designed to satisfy the contemporary needs in all business fields for data science technology and applications. With the development of information technology, especially the quick spread of IoT technology in consumer and supply chain fields, data explosion phenomenon is happening from small/personal businesses to multi-billion global businesses. Talents with data analytics competences are highly demanded by all organizations.
                     </blockquote>
-                    <p>
+                    <p style="font-size: 18px;">
                         To provide in-depth and rigorous training in Business Analytics, this program emphasizes both the technical and the application perspectives of data analytics. Graduates from this program are anticipated to be able to
                     </p>
                     <a class="btn circle btn-theme effect btn-md" href="#">Know More</a>
@@ -447,7 +266,7 @@
 
 <!-- Start Fun Factor
 ============================================= -->
-<div class="fun-factor-area default-padding text-center bg-fixed shadow dark-hard" style="background-image: url(assets/img/2440x1578.png);">
+<div class="fun-factor-area default-padding text-center bg-fixed shadow dark-hard" style="background-image: url(assets/img/Banner_ACTTeam.png);">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6 item">
@@ -538,7 +357,7 @@
                                     <a href="#">Education</a>
                                 </div>
                                 <h4>
-                                    <a href="#">Professor Recognized as Cybersecurity Difference-Maker</a>
+                                    <a href="https://www.cpp.edu/~cba/news-events/news/sans-award-pike.shtml">Professor Recognized as Cybersecurity Difference-Maker</a>
                                 </h4>
                                 <p>
                                     The largest provider of cyber security training and certification to professionals at governments and commercial institutions has honored a Cal Poly Pomona College of Business Administration professor for his work in the field.
@@ -579,7 +398,7 @@
 
 
                                 </p>
-                                <a href="#"><i class="fas fa-plus"></i> Read More</a>
+                                <a href="https://www.cpp.edu/~cba/news-events/news/watson-announcement.shtml"><i class="fas fa-plus"></i> Read More</a>
                             </div>
                         </div>
                     </div>
@@ -612,9 +431,9 @@
                                 </h4>
                                 <p>
                                    The 24-hour technology build-a-thon event, Hackpoly, drew almost 500 college students to the Cal Poly Pomona campus. 
-                                    Competitors had the option to log on to a dedicated Hackpoly wireless network or plug in via LAN. The network routed nearly 1.5 terabytes of traffic during the event.
+                                    Competitors had the option to log on to a dedicated Hackpoly wireless network or plug in via LAN. The network routed nearly 1.5 terabytes.
                                 </p>
-                                <a href="#"><i class="fas fa-plus"></i> Read More</a>
+                                <a href="https://www.cpp.edu/~cba/news-events/news/swift-hackpoly-16.shtml"><i class="fas fa-plus"></i> Read More</a>
                             </div>
                         </div>
                     </div>
@@ -625,210 +444,4 @@
     </div>
 </div>
 <!-- End Blog -->
-
-
-<!-- Start Footer
-     ============================================= -->
-<footer class="bg-dark text-light">
-    <div class="container">
-        <div class="f-items default-padding">
-            <div class="row">
-                <!-- Single item -->
-                <div class="col-md-4 col-sm-6 item equal-height">
-                    <div class="f-item about">
-                        <h4>About</h4>
-                        <p>
-                            Excellence decisively nay man yet impression for contrasted remarkably. There spoke happy for you are out. Fertile how old address.
-                        </p>
-                        <ul>
-                            <li>
-                                <p>Office <span>Cal Poly Pomona
-3801 West Temple Avenue
-Pomona, California 91768</span></p>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Single item -->
-
-                <!-- Single item -->
-                <div class="col-md-2 col-sm-6 item equal-height">
-                    <div class="f-item link">
-                        <h4>Categories</h4>
-                        <ul>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> All Courses</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Event</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Digital Marketing</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Design & Branding</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Storytelling</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Education</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Geography</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Single item -->
-
-                <!-- Single item -->
-                <div class="col-md-2 col-sm-6 item equal-height">
-                    <div class="f-item link">
-                        <h4>Support</h4>
-                        <ul>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Documentation</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Forums</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Language Packs</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Release Status</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> LearnPress</a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ti-angle-right"></i> Feedback</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Single item -->
-
-                <!-- Single item -->
-                <div class="col-md-4 col-sm-6 item equal-height">
-                    <div class="f-item popular-courses">
-                        <h4>Popular Courses</h4>
-                        <ul>
-                            <li>
-                                <div class="thumb">
-                                    <a href="#">
-                                        <img src="assets/img/800x800.png" alt="Thumb">
-                                    </a>
-                                </div>
-                                <div class="info">
-                                    <a href="#">Subjects allied to Creative arts and design</a>
-                                    <ul class="meta">
-                                        <li>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half-alt"></i>
-                                        </li>
-                                        <li>(128) enrolled</li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="thumb">
-                                    <a href="#">
-                                        <img src="assets/img/800x800.png" alt="Thumb">
-                                    </a>
-                                </div>
-                                <div class="info">
-                                    <a href="#">Business and administrative subjects</a>
-                                    <ul class="meta">
-                                        <li>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                        </li>
-                                        <li>(98) enrolled</li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="thumb">
-                                    <a href="#">
-                                        <img src="assets/img/800x800.png" alt="Thumb">
-                                    </a>
-                                </div>
-                                <div class="info">
-                                    <a href="#">Business and administrative subjects</a>
-                                    <ul class="meta">
-                                        <li>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half-alt"></i>
-                                        </li>
-                                        <li>(688) enrolled</li>
-                                    </ul>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- End Single item -->
-            </div>
-        </div>
-    </div>
-    <!-- Start Footer Bottom -->
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <p>&copy; Copyright 2020. All Rights Reserved by <a href="#">CalPolyPomona</a></p>
-                </div>
-                <div class="col-md-6 text-right link">
-                    <ul>
-                        <li>
-                            <a href="#">Terms of user</a>
-                        </li>
-                        <li>
-                            <a href="#">License</a>
-                        </li>
-                        <li>
-                            <a href="#">Support</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Footer Bottom -->
-</footer>
-<!-- End Footer -->
-
-<!-- jQuery Frameworks
-============================================= -->
-<script src="assets/js/jquery-1.12.4.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/equal-height.min.js"></script>
-<script src="assets/js/jquery.appear.js"></script>
-<script src="assets/js/jquery.easing.min.js"></script>
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
-<script src="assets/js/modernizr.custom.13711.js"></script>
-<script src="assets/js/owl.carousel.min.js"></script>
-<script src="assets/js/wow.min.js"></script>
-<script src="assets/js/progress-bar.min.js"></script>
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-<script src="assets/js/count-to.js"></script>
-<script src="assets/js/YTPlayer.min.js"></script>
-<script src="assets/js/loopcounter.js"></script>
-<script src="assets/js/jquery.nice-select.min.js"></script>
-<script src="assets/js/bootsnav.js"></script>
-<script src="assets/js/main.js"></script>
-
-</body>
-</html>
+</asp:Content>
