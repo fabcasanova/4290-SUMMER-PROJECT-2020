@@ -53,7 +53,7 @@
 
 <!-- Start Header Top
 ============================================= -->
-<div class="top-bar-area bg-dark text-light">
+<div class="top-bar-area bg-dark text-light" style="height:90px;">
     <div class="container">
         <div class="row">
 
@@ -61,13 +61,20 @@
                 <div class="info">
                     <ul>
                         <li>
-                            <i class="fas fa-copy"></i> Total courses: <strong>23400</strong>
+                             <a  href="index.aspx">
+                    <img src="assets/img/cbaLogofirst.png" class="logo" alt="Logo">
+                </a>
                         </li>
-                        <li>
-                            <i class="fas fa-user-shield"></i> Instructor: <strong>655</strong>
-                        </li>
+                       
+                        
                         <li>
                             <i class="fas fa-phone"></i> Help Line: <strong>+123 456 7890</strong>
+                        </li>
+                         <li class="social">
+                            <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://twitter.com/calpolypomona"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.linkedin.com/school/cal-poly-pomona/"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -93,7 +100,7 @@
 <header id="home">
 
     <!-- Start Navigation -->
-    <nav class="navbar navbar-default attr-border navbar-sticky bootsnav">
+    <nav class="navbar top-pad navbar-default attr-border-none navbar-fixed navbar-sticky white bootsnav" style="height:90px;">
 
         <!-- Start Top Search -->
         <div class="container">
@@ -127,9 +134,11 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.aspx">
-                    <img src="assets/img/cbaLogofirst.png" class="logo" alt="Logo">
-                </a>
+                  <a class="navbar-brand" href="index.aspx">
+                    
+                    <img src="">
+                </a>  
+                
             </div>
             <!-- End Header Navigation -->
 
@@ -155,7 +164,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Organization</a>
                         <ul class="dropdown-menu">
-                            <li><a href="organization-directors.aspx">Directors</a></li>
+                            <li><a href="#">Directors</a></li>
                             <li><a href="organization-faculty.aspx">Faculty</a></li>
                         </ul>
                     </li>
