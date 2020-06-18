@@ -8,7 +8,12 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12">
-                <h1>About Us</h1>                
+                <h1>About Us</h1>
+                <ul class="breadcrumb">
+                    <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+                    <li><a href="#">Pages</a></li>
+                    <li class="active">About The Program</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -23,7 +28,7 @@
             <div class="about-items">
                 <div class="col-md-6 about-info">
                     <h2>Welcome ! <span>We're Cal Poly Pomona</span></h2>
-                    <blockquote style="text-align:justify;">
+                    <blockquote>
                         MS in Business Analytics program is designed to satisfy the contemporary needs in all business fields for data science technology and applications. With the development of information technology, especially the quick spread of IoT technology in consumer and supply chain fields, data explosion phenomenon is happening from small/personal businesses to multi-billion global businesses. Talents with data analytics competences are highly demanded by all organizations.
                     </blockquote>
 <!--                    <div class="semester-apply">-->
@@ -45,7 +50,7 @@
 <!--                        </div>-->
 <!--                    </div>-->
                 </div>
-                <div class="col-md-6 features text-light" style="padding-bottom: 40px;">
+                <div class="col-md-6 features text-light">
                     <div class="row">
                         <div class="equal-height col-md-6 col-sm-6">
                             <div class="item mariner">
@@ -54,8 +59,9 @@
                                         <i class="ti-panel"></i>
                                     </div>
                                     <div class="info">
-                                        <h2>9</h2>
-                                        <h4>Expert faculty</h4>
+                                        <h2>No. 2</h2>
+                                        <h4>Best School</h4>
+                                        
                                     </div>
                                 </a>
                             </div>
@@ -67,8 +73,8 @@
                                         <i class="ti-ruler-pencil"></i>
                                     </div>
                                     <div class="info">
-                                        <h2>33</h2>
-                                        <h4>Semester Units</h4>
+                                        <h2>STEM</h2>
+                                        <h4>Program</h4>
                                     </div>
                                 </a>
                             </div>
@@ -80,8 +86,9 @@
                                         <i class="ti-server"></i>
                                     </div>
                                     <div class="info">
-                                        <h2>No. 2</h2>
-                                        <h4>Best Public School</h4>
+                                        <h2>33</h2>
+                                        <h4>Semester <br />Units</h4>
+                                        
                                     </div>
                                 </a>
                             </div>
@@ -93,8 +100,8 @@
                                         <i class="ti-desktop"></i>
                                     </div>
                                     <div class="info">
-                                        <h2>12</h2>
-                                        <h4>Required Courses</h4>
+                                        <h2>1 Year </h2>
+                                        <h4>Accelerated Program</h4>
                                     </div>
                                 </a>
                             </div>
@@ -102,18 +109,18 @@
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <p style="font-size: 18px; text-align: justify;">To provide in-depth and rigorous training in Business Analytics, this program emphasizes both the technical and the application perspectives of data analytics. Graduates from this program are anticipated to be able to,</p>
+                    <p style="font-size: 18px;">To provide in-depth and rigorous training in Business Analytics, this program emphasizes both the technical and the application perspectives of data analytics. Graduates from this program are anticipated to be able to,</p>
                     <ul class="list about-list">
                         <li style="font-size: 18px;"><i class="fas fa-angle-right"></i> Develop business initiatives with strong story-telling ability</li>
                         <li style="font-size: 18px;"><i class="fas fa-angle-right"></i> Lead organizational changes with data driven decision making</li>
                         <li style="font-size: 18px;"><i class="fas fa-angle-right"></i> Proficiently use programming and database tools for descriptive, discovery, predictive, and prescriptive analytics</li>
                     </ul>
                 </div>
-                <div class="col-md-12" style="padding-top: 20px; padding-bottom:20px; text-align:justify;">
+                <div class="col-md-12">
                     <p style="font-size: 18px;">Graduates from this program will demonstrate in-depth knowledge in database, statistics, optimization, and decision theories, and be equipped with skills in Python/R, data warehousing, data mining, text mining and web analytics, big data analytics, and predictive/prescriptive modeling focusing on business applications. The program will focus on the implication of business analytics on various business functional areas such as marketing, supply chain management, finance, information systems, and prepare students with competencies to lead data-driven changes.</p>
                 </div>
                 <div class="col-md-12">
-                    <h2>Program Highlights</h2>
+                    <h4 style="font-size: 18px;">Program Highlights</h4>
                     <ul class="list about-list">
                         <li style="font-size: 18px;"><i class="fas fa-angle-right"></i> One year expedited or 2 year normal length for both full-time and part-time students</li>
                         <li style="font-size: 18px;"><i class="fas fa-angle-right"></i> STEM program</li>
@@ -287,7 +294,6 @@
                     </div>
                 </div>
                 <!-- End Single item -->
-
                 <!-- Single item -->
                 <div class="col-md-3 col-sm-6 single-item">
                     <div class="item">
@@ -314,7 +320,6 @@
                     </div>
                 </div>
                 <!-- End Single item -->
-
                 <!-- Single item -->
                 <div class="col-md-3 col-sm-6 single-item">
                     <div class="item">
@@ -341,7 +346,6 @@
                     </div>
                 </div>
                 <!-- End Single item -->
-
                 <!-- Single item -->
                 <div class="col-md-3 col-sm-6 single-item">
                     <div class="item">
@@ -368,7 +372,6 @@
                     </div>
                 </div>
                 <!-- End Single item -->
-
                 <!-- Single item -->
                 <div class="col-md-3 col-sm-6 single-item">
                     <div class="item">
@@ -395,7 +398,6 @@
                     </div>
                 </div>
                 <!-- End Single item -->
-
                 <!-- Single item -->
                 <div class="col-md-3 col-sm-6 single-item">
                     <div class="item">
