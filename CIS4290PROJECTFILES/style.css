@@ -49,8 +49,9 @@ Table of contents
     18. Subscribe Form
     19. Error 404
     20. Footer
-    21. PHP Contact Form
-    22. Others
+    21. Program Page
+    22. PHP Contact Form
+    23. Others
 
 */
 
@@ -107,6 +108,34 @@ img {
   outline: none;
   max-width: 100%;
 }
+
+/*
+    Modified on 16-06-2020
+*/
+.attr-nav {
+    border:0px!important;
+}
+
+.dropdown-menu li a:hover {
+    background-color: rgba(41,124,64,1)!important;
+}
+
+#home nav{
+    height: auto!important;
+    border-bottom: 0px;
+}
+
+.navbar-brand{
+    padding:0px!important;
+    padding-top: 10px!important;
+}
+
+#navbar-menu li a{
+    padding-bottom:20px!important;
+}
+/*
+    Modification ends on 16-06-2020
+*/
 
 label {
   display: inline-block;
@@ -6321,12 +6350,44 @@ footer .footer-bottom .link li a {
   font-weight: 600;
 }
 
-
+/* ============================================================== 
+     # Program Page 
+=================================================================== */
+.sidebar_items {
+    float: none;
+}
+.adds a, .adds h2, .adds h4 {
+    color: white;
+}
+.program_icon {
+    display: inline-block;
+    font-size: 30px;
+}
+.item_malachite {
+    display: flex;
+    background: #10c45c;
+    padding: 12px;
+}
+.item_casablanca {
+    display: inline-flex;
+    background: #f9bd44;
+    padding: 12px;
+}
+.item_brilliantrose {
+    display: inline-flex;
+    background: #e948ae;
+    padding: 12px;
+}
+.boxed_mariner {
+    display: inline-flex;
+    background: #307ad5;
+    padding: 12px; 
+}
 /* ============================================================== 
      # Preloader 
 =================================================================== */
 .no-js #loader {
-  display: none;
+    display: none;
 }
 
 .js #loader {

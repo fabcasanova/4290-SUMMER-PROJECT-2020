@@ -460,17 +460,79 @@
 
             <!-- Start Course Sidebar -->
             <div class="col-md-3">
-                <div class="aside">
+                <p>Quote goes here</p>
+                
                     <!-- Sidebar Item -->
                     
                     <!-- End Sidebar Item -->
                     <!-- Sidebar Item -->
-                    
-                    <!-- End Sidebar Item -->
-                    <!-- Sidebar Item -->
-                    
-                    <!-- End Sidebar Item -->
+                   <div class="sidebar_items adds">
+                    <div class="row">
+                        <div class="equal-height col-sm-6">
+                            <div class="boxed_mariner">
+                                <a href="#">
+                                    <div class="program_icon">
+                                        <i class="ti-panel"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h2>9</h2>
+                                        <h4>Expert faculty</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="equal-height col-sm-6">
+                            <div class="item_brilliantrose">
+                                <a href="#">
+                                    <div class="program_icon">
+                                        <i class="ti-ruler-pencil"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h2>33</h2>
+                                        <h4>Semester Units</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="equal-height col-sm-6">
+                            <div class="item_casablanca">
+                                <a href="#">
+                                    <div class="program_icon">
+                                        <i class="ti-server"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h2>No. 2</h2>
+                                        <h4>Best Public School</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="equal-height col-sm-6">
+                            <div class="item_malachite">
+                                <a href="#">
+                                    <div class="program_icon">
+                                        <i class="ti-desktop"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h2>12</h2>
+                                        <h4>Required Courses</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                    <!-- End Sidebar Item -->
+                    <!-- Sidebar Item -->
+                    
+                    <!-- End Sidebar Item -->
+                
             </div>
             <!-- End Course Sidebar -->
         </div>
