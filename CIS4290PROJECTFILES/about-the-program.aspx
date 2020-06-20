@@ -60,7 +60,7 @@
                                     </div>
                                     <div class="info">
                                         <h2>No. 2</h2>
-                                        <h4>Best School</h4>
+                                        <h4>Best <br /> Public<br /> School</h4>
                                         
                                     </div>
                                 </a>
@@ -73,8 +73,8 @@
                                         <i class="ti-ruler-pencil"></i>
                                     </div>
                                     <div class="info">
-                                        <h2>STEM</h2>
-                                        <h4>Program</h4>
+                                        <h2>No.14</h2>
+                                        <h4>Best West Regional University</h4>
                                     </div>
                                 </a>
                             </div>
