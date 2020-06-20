@@ -22,7 +22,7 @@
 
 <!-- Start About
 ============================================= -->
-    <div class="category-area default-padding default-padding">
+    <div class="category-area default-padding default-padding" >
         <div class="container">
             <div class="error-items">
                 <div class="row">
@@ -41,7 +41,7 @@
                     </ul>
                         </div>
                     </div>
-                   <div class="category-items">
+                   <div class="category-items" style="margin-top:80px;" >
                 <div class="row">
                     <!-- Single Item -->
                     <div class="col-md-12  equal-height text-center" >
