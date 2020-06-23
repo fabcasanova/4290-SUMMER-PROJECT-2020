@@ -63,7 +63,29 @@
 </div>
 <!-- End Banner -->
 
-<!-- Start Features
+<!-- Start About
+============================================= -->
+<div class="about-area default-padding-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="about-items">
+                <div class="col-md-12 about-info">
+                    <h2>Welcome ! <span>We're  California State Polytechnic University</span></h2>
+                    <blockquote style="text-align: justify;">
+                        MS in Business Analytics program is designed to satisfy the contemporary needs in all business fields for data science technology and applications. With the development of information technology, especially the quick spread of IoT technology in consumer and supply chain fields, data explosion phenomenon is happening from small/personal businesses to multi-billion global businesses. Talents with data analytics competences are highly demanded by all organizations.
+                    </blockquote>
+                    <p style="font-size: 18px; text-align: justify;">
+                        To provide in-depth and rigorous training in Business Analytics, this program emphasizes both the technical and the application perspectives of data analytics. Graduates from this program are anticipated to be able to
+                    </p>
+                    <a class="btn circle btn-theme effect btn-md" href="/about-the-program">Know More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End About -->
+
+    <!-- Start Features
 ============================================= -->
 <div class="features-area default-padding bottom-less">
     <div class="container">
@@ -134,37 +156,6 @@
     </div>
 </div>
 <!-- End Features -->
-
-<!-- Start About
-============================================= -->
-<div class="about-area default-padding-bottom">
-    <div class="container">
-        <div class="row">
-            <div class="about-items">
-                <div class="col-md-12 about-info">
-                    <h2>Welcome ! <span>We're  California State Polytechnic University</span></h2>
-                    <blockquote style="text-align: justify;">
-                        MS in Business Analytics program is designed to satisfy the contemporary needs in all business fields for data science technology and applications. With the development of information technology, especially the quick spread of IoT technology in consumer and supply chain fields, data explosion phenomenon is happening from small/personal businesses to multi-billion global businesses. Talents with data analytics competences are highly demanded by all organizations.
-                    </blockquote>
-                    <p style="font-size: 18px; text-align: justify;">
-                        To provide in-depth and rigorous training in Business Analytics, this program emphasizes both the technical and the application perspectives of data analytics. Graduates from this program are anticipated to be able to
-                    </p>
-                    <a class="btn circle btn-theme effect btn-md" href="/about-the-program">Know More</a>
-                </div>
-<!--                <div class="col-md-6 thumb">-->
-<!--                    <div class="thumb">-->
-<!--                        <img src="assets/img/800x600.png" alt="Thumb">-->
-<!--                        <a href="https://www.youtube.com/watch?v=DKz_EEoJRs4" class="popup-youtube light video-play-button">-->
-<!--                            <i class="fa fa-play"></i>-->
-<!--                        </a>-->
-<!--                    </div>-->
-<!--                </div>-->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End About -->
-
 
 <!-- Start Testimonials
 ============================================= -->

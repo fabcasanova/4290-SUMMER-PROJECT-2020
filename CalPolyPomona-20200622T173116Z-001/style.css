@@ -119,8 +119,23 @@ td {
     Modified on 16-06-202
    
 */
+.about-area {
+    padding-top: 120px!important;    
+}
 
-.full-blog .default-padding,  .sidebar {
+.features-area{
+    padding-top: 0px!important;
+}
+
+.footer-text {
+    color:black!important;
+}
+
+.footer-bottom p a {
+    color:#070b90!important; 
+}
+
+.full-blog .default-padding, .sidebar {
     padding-bottom: 20px;
 }
 .attr-nav {
@@ -190,10 +205,6 @@ a img, iframe {
     font-size: 18px !important;
 }
 
-.padding-270 {
-    padding-left: 270px!important;
-    text-align: justify;
-}
 
 p {
   color: #666666;
@@ -6433,4 +6444,36 @@ footer .footer-bottom .link li a {
   z-index: 999999;
   background: url(assets/img/preloader.gif) center no-repeat #fff;
   text-align: center;
+}
+
+.padding-270 {
+  text-align: justify;
+}
+
+.prof-image {
+  width: 80%; 
+  margin-left: 10%; 
+  margin-right: 10%;
+  margin-top: 35%; 
+  margin-bottom: 35%;
+}
+
+.padding-270 h4 {
+  font-weight: 600;
+}
+
+@media only screen and (min-width: 992px) {
+    .padding-270 {
+      padding-top: 3%;
+      padding-left: 0%;
+      margin-left: -2%;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+  .padding-270 {
+    margin-top:-15%;
+    margin-left: 6%;
+    margin-right: 6%;
+  }
 }

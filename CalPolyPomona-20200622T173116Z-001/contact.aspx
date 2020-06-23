@@ -31,7 +31,7 @@
                         </div>
                         <div class="info">
                             <h4>Call Us</h4>
-                            <span>+1 (909) 869-7659 <br /> +1 (909) 869-3000</span>
+                            <span>+1 909 869 7659 <br /> +1 909 869 3000</span>
                         </div>
                     </div>
                 </div>

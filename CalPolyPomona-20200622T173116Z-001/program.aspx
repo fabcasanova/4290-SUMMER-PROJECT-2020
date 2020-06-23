@@ -93,7 +93,7 @@
                             <!-- Single Tab -->
                             <div id="tab1" class="tab-pane fade active in">
                                 <div class="info title">
-                                    <h4>Curriculum</h4>
+                                    <!-- <h4>Curriculum</h4> -->
                                     <p class="j-data">
                                         The Masters of Business Analytics (MSBA) is a 33 semester credit, flexible one or two year program. Students develop into expert data analysts who can reveal trends, transform data, and uncover patterns.  Our curriculum prioritizes four interlocking models including  Business, Data, Analytics, and Experiential.
                                     </p>
@@ -108,210 +108,176 @@
 <!--                                    <p>-->
 <!--                                        Placing assured be if removed it besides on. Far shed each high read are men over day. Afraid we praise lively he suffer family estate is. Ample order up in of in ready. Timed blind had now those ought set often which. Or snug dull he show more true wish. No at many deny away miss evil. On in so indeed spirit an mother. Amounted old strictly but marianne admitted. People former is remove remain as.-->
 <!--                                    </p>-->
-                                    <h4>List Of Courses</h4>
+                                    <!-- <h4>List Of Courses</h4> -->
                                     <!-- Start Course List -->
-                                    <div class="course-list-items acd-items acd-arrow">
-                                        <div class="panel-group symb" id="accordion">
-                                            <div class="panel panel-default">
-                                                <div class="panel-heading">
-                                                    <h4 class="panel-title">
-                                                        <a data-toggle="collapse" data-parent="#accordion" href="#ac1">
-                                                            <strong>12 Months</strong> 
-                                                        </a>
-                                                    </h4>
-                                                </div>
-                                                <div id="ac1" class="panel-collapse collapse in">
-                                                    <div class="panel-body">
-                                                        <table border="1" cellspacing="1" style="width: 100%;">
-<tbody>
-<tr>
-<th rowspan="7"  style="text-align: center">Complete Program</th>
-<th> Fall</th>
-<th> Units</th>
-<th> Spring</th>
-<th> Units</th>
-<th> Summer</th>
-<th> Units</th>
-<th> Comment</th>
-</tr>
-<tr>
-<td> GBA 6060</td>
-<td> 3</td>
-<td> GBA 6210</td>
-<td> 3</td>
-<td> GBA 6410</td>
-<td> 3</td>
-<td rowspan="5">&nbsp;</td>
-</tr>
-<tr>
-<td> GBA 6070</td>
-<td> 3</td>
-<td> GBA 6220</td>
-<td> 3</td>
-<td> GBA 6420</td>
-<td> 3</td>
-</tr>
-<tr>
-<td> GBA 5140</td>
-<td> 3</td>
-<td> GBA 6230</td>
-<td> 3</td>
-<td> GBA 6430</td>
-<td> 3</td>
-</tr>
-<tr>
-<td> GBA 6761</td>
-<td> 1</td>
-<td> GBA 6762</td>
-<td> 2</td>
-<td> GBA 6951</td>
-<td> 3</td>
-</tr>
-<tr>
-<td> Total Units</td>
-<td> 10</td>
-<td> Total Units</td>
-<td> 11</td>
-<td> Total Units</td>
-<td> 12</td>
-</tr>
-<tr>
-<td colspan="3"> Total Units</td>
-<td colspan="4"> 33</td>
-</tr>
-</tbody>
-</table>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Course List -->
 
-                                    <!-- Start Course List -->
-                                    <div class="course-list-items acd-items acd-arrow">
-                                        <div class="panel-group symb" id="accordion">
-                                            <div class="panel panel-default">
-                                                <div class="panel-heading">
-                                                    <h4 class="panel-title">
-                                                        <a data-toggle="collapse" data-parent="#accordion" href="#ac2">
-                                                            <strong>24 Months</strong> 
-                                                        </a>
-                                                    </h4>
-                                                </div>
-                                                <div id="ac2" class="panel-collapse collapse">
-                                                    <div class="panel-body">
+                                    <h4><strong>12 Months</strong></h4>
+
+                                    <table border="1" cellspacing="1" style="width: 100%;">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <th rowspan="7"  style="text-align: center">Complete Program</th>
+                                                                    <th> Fall</th>
+                                                                    <th> Units</th>
+                                                                    <th> Spring</th>
+                                                                    <th> Units</th>
+                                                                    <th> Summer</th>
+                                                                    <th> Units</th>
+                                                                    <th> Comment</th>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> GBA 6060</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6210</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6410</td>
+                                                                    <td> 3</td>
+                                                                    <td rowspan="5">&nbsp;</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> GBA 6070</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6220</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6420</td>
+                                                                    <td> 3</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> GBA 5140</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6230</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6430</td>
+                                                                    <td> 3</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> GBA 6761</td>
+                                                                    <td> 1</td>
+                                                                    <td> GBA 6762</td>
+                                                                    <td> 2</td>
+                                                                    <td> GBA 6951</td>
+                                                                    <td> 3</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> Total Units</td>
+                                                                    <td> 10</td>
+                                                                    <td> Total Units</td>
+                                                                    <td> 11</td>
+                                                                    <td> Total Units</td>
+                                                                    <td> 12</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td colspan="3"> Total Units</td>
+                                                                    <td colspan="4"> 33</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                    <br /><br />
+                                    <h4><strong>24 Months</strong></h4>
+                                    <table border="1" style="width: 100%;">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <th rowspan="7" style="text-align: center">Complete Program</th>
+                                                                    <th> Fall</th>
+                                                                    <th> Units</th>
+                                                                    <th> Spring</th>
+                                                                    <th> Units</th>
+                                                                    <th> Summer</th>
+                                                                    <th> Units</th>
+                                                                    <th> Comment</th>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> GBA 6060</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6210</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6410</td>
+                                                                    <td> 3</td>
+                                                                    <td rowspan="5">Year 1</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> GBA 5140</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6220</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6420</td>
+                                                                    <td> 3</td>
+                                                                </tr>
+                                                                
+                                                                <tr>
+                                                                    <td>&nbsp;</td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> Total Units</td>
+                                                                    <td> 6</td>
+                                                                    <td> Total Units</td>
+                                                                    <td> 6</td>
+                                                                    <td> Total Units</td>
+                                                                    <td> 6</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td colspan="3"> Total Units</td>
+                                                                    <td colspan="4"> 18</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                            <br />
                                                         <table border="1" style="width: 100%;">
-<tbody>
-<tr>
-<th rowspan="7" style="text-align: center">Complete Program</th>
-<th> Fall</th>
-<th> Units</th>
-<th> Spring</th>
-<th> Units</th>
-<th> Summer</th>
-<th> Units</th>
-<th> Comment</th>
-</tr>
-<tr>
-<td> GBA 6060</td>
-<td> 3</td>
-<td> GBA 6210</td>
-<td> 3</td>
-<td> GBA 6410</td>
-<td> 3</td>
-<td rowspan="5">Year 1</td>
-</tr>
-<tr>
-<td> GBA 5140</td>
-<td> 3</td>
-<td> GBA 6220</td>
-<td> 3</td>
-<td> GBA 6420</td>
-<td> 3</td>
-</tr>
-<tr>
-<tr>
-<td>&nbsp;</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td> Total Units</td>
-<td> 6</td>
-<td> Total Units</td>
-<td> 6</td>
-<td> Total Units</td>
-<td> 6</td>
-</tr>
-<tr>
-<td colspan="3"> Total Units</td>
-<td colspan="4"> 18</td>
-</tr>
-</tbody>
-</table>
-<br />
-                                                        <table border="1" style="width: 100%;">
-<tbody>
-<tr>
-<th rowspan="7" style="text-align: center">Complete Program</th>
-<th> Fall</th>
-<th> Units</th>
-<th> Spring</th>
-<th> Units</th>
-<th> Summer</th>
-<th> Units</th>
-<th> Comment</th>
-</tr>
-<tr>
-<td> GBA 6070</td>
-<td> 3</td>
-<td> GBA 6230</td>
-<td> 3</td>
-<td> GBA 6430</td>
-<td> 3</td>
-<td rowspan="5">Year 2</td>
-</tr>
-<tr>
-<td> GBA 6761</td>
-<td> 1</td>
-<td> GBA 6762</td>
-<td> 2</td>
-<td> GBA 6951</td>
-<td> 3</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<tr>
-<td> Total Units</td>
-<td> 4</td>
-<td> Total Units</td>
-<td> 5</td>
-<td> Total Units</td>
-<td> 6</td>
-</tr>
-<tr>
-<td colspan="3"> Total Units</td>
-<td colspan="4"> 15</td>
-</tr>
-</tbody>
-</table>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Course List -->
+                                                            <tbody>
+                                                                <tr>
+                                                                    <th rowspan="7" style="text-align: center">Complete Program</th>
+                                                                    <th> Fall</th>
+                                                                    <th> Units</th>
+                                                                    <th> Spring</th>
+                                                                    <th> Units</th>
+                                                                    <th> Summer</th>
+                                                                    <th> Units</th>
+                                                                    <th> Comment</th>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> GBA 6070</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6230</td>
+                                                                    <td> 3</td>
+                                                                    <td> GBA 6430</td>
+                                                                    <td> 3</td>
+                                                                    <td rowspan="5">Year 2</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td> GBA 6761</td>
+                                                                    <td> 1</td>
+                                                                    <td> GBA 6762</td>
+                                                                    <td> 2</td>
+                                                                    <td> GBA 6951</td>
+                                                                    <td> 3</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>&nbsp;</td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                </tr>                                                                
+                                                                <tr>
+                                                                    <td> Total Units</td>
+                                                                    <td> 4</td>
+                                                                    <td> Total Units</td>
+                                                                    <td> 5</td>
+                                                                    <td> Total Units</td>
+                                                                    <td> 6</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td colspan="3"> Total Units</td>
+                                                                    <td colspan="4"> 15</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>                                                                      
                                    
                                 </div>
                             </div>
@@ -456,22 +422,22 @@
                    <div class="sidebar_items adds">
                     <div class="row no-gutters">
                         <div class="equal-height prg-col col-sm-6">
-                            <div class="boxed_mariner">
-                                <a href="#">
+                            <div class="boxed_mariner">    
+                                <div>
                                     <div class="program_icon">
-                                        <i class="ti-panel"></i>
+                                        <i class="ti-panel"></i>                                        
                                     </div>
                                     <div class="info">
                                         <h2>9</h2>
                                         <h4>Expert Faculties</h4>
-                                    </div>
-                                </a>
+                                    </div>                                
+                                </div>
                             </div>
                         </div>
 
                         <div class="equal-height prg-col col-sm-6">
                             <div class="item_brilliantrose">
-                                <a href="#">
+                                <div>
                                     <div class="program_icon">
                                         <i class="ti-ruler-pencil"></i>
                                     </div>
@@ -479,7 +445,7 @@
                                         <h2>33</h2>
                                         <h4>Semester Units</h4>
                                     </div>
-                                </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -488,7 +454,7 @@
                     <div class="row">
                         <div class="equal-height prg-col col-sm-6">
                             <div class="item_casablanca">
-                                <a href="#">
+                                <div>
                                     <div class="program_icon">
                                         <i class="ti-server"></i>
                                     </div>
@@ -496,13 +462,13 @@
                                         <h2>No. 2</h2>
                                         <h4>Best Public School</h4>
                                     </div>
-                                </a>
+                                </div>
                             </div>
                         </div>
 
                         <div class="equal-height prg-col col-sm-6">
                             <div class="item_malachite">
-                                <a href="#">
+                                <div>
                                     <div class="program_icon">
                                         <i class="ti-desktop"></i>
                                     </div>
@@ -510,7 +476,7 @@
                                         <h2>12</h2>
                                         <h4>Required Courses</h4>
                                     </div>
-                                </a>
+                                </div>
                             </div>
                         </div>
                     </div>

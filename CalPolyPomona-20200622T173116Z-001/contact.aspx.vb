@@ -15,7 +15,7 @@ Public Class contact
         Dim mailMessage As MailMessage = New MailMessage()
         mailMessage.To.Add("he@cpp.edu")
         mailMessage.To.Add("dhwang@cpp.edu")
-
+        'mailMessage.To.Add("smalshamisi@cpp.edu")
         mailMessage.Subject = "New Message from Contact"
 
         Dim n As String
@@ -26,7 +26,7 @@ Public Class contact
         em = email.Text
         p = phone.Text
         co = comments.Text
-        mailMessage.Body = "Name : " + n + " E-Mail: " + em + " Phone: " + p + " Comments: " + co
+        mailMessage.Body = "Name : " + n + vbCrLf + "E-Mail: " + em + vbCrLf + "Phone: " + p + vbCrLf + vbCrLf + "Comments: " + co
 
         Try
             'smtpClient.Credentials = New NetworkCredential("msbacpp2020@gmail.com", "cppthegreat2020", "smtp.gmail.com")
