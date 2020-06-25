@@ -176,6 +176,14 @@ th, td {
     padding-bottom: 5px;
 }
 
+/* Saif Update
+    ** Menu bar fixed color - 06/25/2020 
+*/
+nav.navbar-fixed {
+    background: linear-gradient(to right, #FCF3CF 0%, rgba(41,124,64,1) 100%);
+}
+
+
 /*
     Modification ends on 16-06-2020
 */
