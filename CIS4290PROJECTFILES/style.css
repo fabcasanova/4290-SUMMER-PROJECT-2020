@@ -176,14 +176,6 @@ th, td {
     padding-bottom: 5px;
 }
 
-/* Saif Update
-    ** Menu bar fixed color - 06/25/2020 
-*/
-nav.navbar-fixed {
-    background: linear-gradient(to right, #FCF3CF 0%, rgba(41,124,64,1) 100%);
-}
-
-
 /*
     Modification ends on 16-06-2020
 */
@@ -2210,6 +2202,16 @@ div#bootcarousel {
   -moz-transform: scale(1.2);
   -ms-transform: scale(1.2);
   transform: scale(1.2);
+
+}
+.single-item .content p {
+    height: auto;
+    max-height: 0;
+    overflow: hidden;
+}
+
+.single-item .content.paragraphExpand p {
+    max-height: 10000000px;
 
 }
 .course-cat-area .course-cat-items .single-item .info h4 {
