@@ -430,98 +430,110 @@
                                 <div class="sidebar-info">
                                     <ul>
                                         <li>
-                                            <a href="/GBA_6060">
+                                            <a href="/GBA_6060.aspx">
+                                                <strong>GBA 6060</strong> 
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6060</strong> Introduction to Business Analytics - Business Metrics and Analytics (3 credits)
+                                               Introduction to Business Analytics - Business Metrics and Analytics (3 credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6070">
+                                            <a href="/GBA_6070.aspx">
+                                                <strong>GBA 6070</strong> 
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6070</strong> Programming Foundation for Business Analytics (3 credits)
+                                                    Programming Foundation For Business Analytics (3 Credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_5140">
+                                            <a href="/GBA_5140.aspx">
+                                                <strong>GBA 5140</strong>
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 5140</strong> Statistics Essentials For Business Analytics (3 credits)
+                                                     Statistics Essentials For Business Analytics (3 credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6761">
+                                            <a href="/GBA_6761.aspx">
+                                                <strong>GBA 6761</strong>
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6761</strong> Business Analytics Challenges 1: Innovation And Idea Development, Team Science (1 credit)
+                                                     Business Analytics Challenges 1: Innovation And Idea Development, Team Science (1 credit)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6210">
-                                                <br />
+                                            <a href="/GBA_6210.aspx">
+                                                <strong>GBA 6210</strong> 
+                                                <br / />
                                                 <h4>
-                                                    <strong>GBA 6210</strong> Data Mining For Business Analytics (3 Credits)
+                                                    Data Mining For Business Analytics (3 Credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6220">
+                                            <a href="/GBA_6220.aspx">
+                                                <strong>GBA 6220</strong>
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6220</strong> Data Management In Business Analytics (3 Credits)
+                                                     Data Management In Business Analytics (3 Credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6230">
+                                            <a href="/GBA_6230.aspx">
+                                                <strong>GBA 6230</strong>
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6230</strong> Advancded Statistics In Business Decision Making (3 Credits)
+                                                     Advancded Statistics In Business Decision Making (3 Credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6762">
+                                            <a href="/GBA_6762.aspx">
+                                                <strong>GBA 6762</strong> 
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6762</strong> Business Analytics Challenges ||: Analysis & Design (2 Credits)
+                                                    Business Analytics Challenges ||: Analysis & Design (2 Credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6410">
+                                            <a href="/GBA_6410.aspx">
+                                                <strong>GBA 6410</strong> 
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6410</strong> Social Media Analytics & Text Mining (3 Credits)
+                                                    Social Media Analytics & Text Mining (3 Credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6420">
+                                            <a href="/GBA_6420.aspx">
+                                                <strong>GBA 6420</strong>
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6420</strong> Optimization For Business Analytics (3 Credits)
+                                                     Optimization For Business Analytics (3 Credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6430">
+                                            <a href="/GBA_6430.aspx">
+                                                <strong>GBA 6430</strong>
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6430</strong> Big Data Technology In Business (3 Credits)
+                                                     Big Data Technology In Business (3 Credits)
                                                 </h4>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6951">
+                                            <a href="/GBA_6951.aspx">
+                                                <strong>GBA 6951</strong>
                                                 <br />
                                                 <h4>
-                                                    <strong>GBA 6951</strong> Culminating Business Analytics Project |||: Implementing & Leading Change (3 Credits)
+                                                     Culminating Business Analytics Project |||: Implementing & Leading Change (3 Credits)
                                                 </h4>
                                             </a>
                                         </li>
