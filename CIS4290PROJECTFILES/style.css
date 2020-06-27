@@ -49,8 +49,10 @@ Table of contents
     18. Subscribe Form
     19. Error 404
     20. Footer
-    21. PHP Contact Form
-    22. Others
+    21. Program Page
+    22. Resource Page
+    22. PHP Contact Form
+    23. Others
 
 */
 
@@ -107,6 +109,85 @@ img {
   outline: none;
   max-width: 100%;
 }
+th,
+td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+}
+/*
+    Modified on 16-06-202
+   
+*/
+.about-area {
+    padding-top: 120px!important;    
+}
+
+.features-area{
+    padding-top: 0px!important;
+}
+
+.footer-text {
+    color:black!important;
+}
+
+.footer-bottom p a {
+    color:#070b90!important; 
+}
+
+.full-blog .default-padding, .sidebar {
+    padding-bottom: 20px;
+}
+.attr-nav {
+    border: 0px !important;
+}
+
+.dropdown-menu li a:hover {
+    background-color: rgba(41,124,64,1)!important;
+}
+
+#home nav{
+    height: auto!important;
+    border-bottom: 0px;
+}
+
+.navbar-brand{
+    padding:0px!important;
+    padding-top: 10px!important;
+}
+
+#navbar-menu li a{
+    padding-bottom:20px!important;
+}
+
+
+th, td {
+    text-align: center;
+}
+
+.prg-col {
+    padding: 0;
+}
+
+.content p, .info p {
+    text-align: justify;
+}
+.list about-list {
+    padding-bottom: 5px;
+}
+
+/* Saif Update
+    ** Menu bar fixed color - 06/25/2020 
+*/
+nav.navbar-fixed {
+    background: linear-gradient(to right, #FCF3CF 0%, rgba(41,124,64,1) 100%);
+}
+
+
+/*
+    Modification ends on 16-06-2020
+*/
 
 label {
   display: inline-block;
@@ -128,12 +209,22 @@ a img, iframe {
   border: none;
 }
 
+.j-data {
+    text-align: justify !important;
+    font-size: 18px !important;
+}
+
+
 p {
   color: #666666;
   line-height: 26px;
   margin: 0 0 15px;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 400;  
+}
+
+li {
+    /* font-size: 18px!important; */
 }
 
 hr {
@@ -338,9 +429,8 @@ input {
   z-index: -1;
 }
 
-.default-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+.default-padding {    
+    padding-top: 60px;
 }
 
 .default-padding-top {
@@ -489,7 +579,7 @@ input {
 }
 
 .bg-dark {
-  background: #002147 none repeat scroll 0 0;
+  background: linear-gradient(to right, #FCF3CF 0%, rgba(41,124,64,1) 100%);
 }
 
 .btn-theme {
@@ -756,7 +846,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
      # Bradcrumb 
 =================================================================== */
 .breadcrumb-area {
-  padding: 150px 0;
+  padding: 100px 0;
 }
 
 .breadcrumb-area .breadcrumb {
@@ -2648,7 +2738,7 @@ div#bootcarousel {
 /* Features */
 
 .top-features .item {
-  margin-top: 30px;
+  margin-top: 5px;
   border-radius: 5px;
 }
 
@@ -2658,7 +2748,7 @@ div#bootcarousel {
 
 .top-features .item a {
   display: block;
-  padding: 38px 30px;
+  padding: 5px 5px;
   border-radius: 5px;
 }
 
@@ -4975,7 +5065,7 @@ i.fas.fa-clock {
 }
 
 .blog-area .info .content {
-  padding: 30px;
+    padding: 30px;
 }
 
 .blog-area .info .meta ul li i {
@@ -5776,13 +5866,19 @@ i.fas.fa-clock {
 /* ============================================================== 
      # Contact
 =================================================================== */
+.contact-info-area {
+
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
 .contact-info-area .contact-info {
-  margin-bottom: 50px;
-  padding: 50px 0;
-  border-bottom: 1px solid #e7e7e7;
-  background: #fafafa;
-  position: relative;
-  z-index: 1;
+
+    margin-bottom: 25px;
+    padding: 50px 0;
+    border-bottom: 1px solid #e7e7e7;
+    background: #fafafa;
+    position: relative;
+    z-index: 1;
 }
 
 .contact-info-area .contact-info::after {
@@ -6301,12 +6397,51 @@ footer .footer-bottom .link li a {
   font-weight: 600;
 }
 
+/* ============================================================== 
+     # Program Page 
+=================================================================== */
+.sidebar_items {
+    float: none;
+}
+.adds a, .adds h2, .adds h4 {
+    color: white;
+}
+.program_icon {
+    display: inline-block;
+    font-size: 30px;
+}
+.item_malachite {
+    display: flex;
+    background: #10c45c;
+    padding: 12px;
+}
+.item_casablanca {
+    display: inline-flex;
+    background: #f9bd44;
+    padding: 12px;
+}
+.item_brilliantrose {
+    display: inline-flex;
+    background: #e948ae;
+    padding: 12px;
+}
+.boxed_mariner {
+    display: inline-flex;
+    background: #307ad5;
+    padding: 12px; 
+}
 
+/* ============================================================== 
+     # Resource Page 
+=================================================================== */
+.resource-items container{
+    width: 1200px;
+}
 /* ============================================================== 
      # Preloader 
 =================================================================== */
 .no-js #loader {
-  display: none;
+    display: none;
 }
 
 .js #loader {
@@ -6325,4 +6460,36 @@ footer .footer-bottom .link li a {
   z-index: 999999;
   background: url(assets/img/preloader.gif) center no-repeat #fff;
   text-align: center;
+}
+
+.padding-270 {
+  text-align: justify;
+}
+
+.prof-image {
+  width: 80%; 
+  margin-left: 10%; 
+  margin-right: 10%;
+  margin-top: 35%; 
+  margin-bottom: 35%;
+}
+
+.padding-270 h4 {
+  font-weight: 600;
+}
+
+@media only screen and (min-width: 992px) {
+    .padding-270 {
+      padding-top: 3%;
+      padding-left: 0%;
+      margin-left: -2%;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+  .padding-270 {
+    margin-top:-15%;
+    margin-left: 6%;
+    margin-right: 6%;
+  }
 }
