@@ -24,7 +24,7 @@
                 <div class="col-md-6 about-info">
                     <h2>Welcome ! <span>We're Cal Poly Pomona</span></h2>
                     <blockquote style="text-align: justify">
-                        MS in Business Analytics program is designed to satisfy the contemporary needs in all business fields for data science technology and applications. With the development of information technology, especially the quick spread of IoT technology in consumer and supply chain fields, data explosion phenomenon is happening from small/personal businesses to multi-billion global businesses. Talents with data analytics competences are highly demanded by all organizations.
+                        MS in Business Analytics program is designed to satisfy the contemporary needs in all business fields for data science technology and applications. With the development of information technology, especially the quick spread of IoT technology in consumer and supply chain fields, data explosion phenomenon is happening from small/personal businesses to multi-billion global businesses. Talents with data analytics competences are highly demanded by all organizations. Graduates from this program will demonstrate in-depth knowledge in database, statistics, optimization, and decision theories, and be equipped with skills
                     </blockquote>
 <!--                    <div class="semester-apply">-->
 <!--                        <div class="row">-->

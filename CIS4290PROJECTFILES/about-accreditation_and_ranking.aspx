@@ -19,24 +19,24 @@
 ============================================= -->
     <div class="category-area default-padding default-padding" >
         <div class="container">
-            <div class="error-items">
+            <div class="error-items" >
                 <div class="row">
-                    <div class="col-md-6">
-                        <div class="error-box">
-                            <h2>Accreditation and Ranking</h2>
-                             <p style="font-size: 18px;text-align: justify; padding-top: 12px;">College of Business Administration, California State Polytechnic University, Pomona AACSB Accredited</p>
-                    <ul class="list about-list">
-                        <li style="font-size: 18px; padding-bottom:10px; text-align: justify;"><i class="fas fa-caret-right" style="color:navy"></i> <strong>U.S. News</strong> ranked Cal Poly Pomona No. 2 among “Top Public Schools” focused on undergraduates in the western region and No. 14 on the “2020 Best Regional Universities – West” list, from a pool of 128 universities in 15 states. The university was also recognized as one of the “Most Innovative Schools” in the region at No. 3. </li>
-                        <li style="font-size: 18px; padding-bottom:10px;text-align: justify;"><i class="fas fa-caret-right" style="color:navy"></i> In <strong>Money Magazine’s</strong> 2019 ranking of “The Best Colleges in America, Ranked by Value” by quality, affordability and alumni success, Cal Poly Pomona rose to No. 41, up six places from a year ago. In Money’s “Most Transformative Colleges List” for 2019, which was based on the magazine’s “value-added scores for graduation rates, earnings and student loan repayment,” Cal Poly Pomona was ranked No. 14.</li>
-                        <li style="font-size: 18px; padding-bottom:10px;text-align: justify;"><i class="fas fa-caret-right" style="color:navy"></i> Cal Poly Pomona ranked No. 3 in the nation among the universities that help low income students find financial success, according to the “<strong>2018 Social Mobility Index.</strong>” The university is one of only five that has ranked in the ranking’s top 20 for five consecutive years.</li>
+                    <div class="col-md-8">
+                        <div class="error-box" >
+                            <h2 class="text-center">Accreditation and Ranking</h2>
+                             <p class="text-center" style="font-size: 18px;text-align: justify; padding-top: 12px;">College of Business Administration, California State Polytechnic University, Pomona AACSB Accredited</p>
+                    <ul class="list about-list"> 
+                        <li style="font-size: 18px; padding-bottom:5px; text-align: justify;"><br /><i class="fas fa-caret-right" style="color:navy"></i> <strong>U.S. News</strong> ranked Cal Poly Pomona No. 2 among “Top Public Schools” focused on undergraduates in the western region and No. 14 on the “2020 Best Regional Universities – West” list, from a pool of 128 universities in 15 states. The university was also recognized as one of the “Most Innovative Schools” in the region at No. 3. </li>
+                        <li style="font-size: 18px; padding-bottom:5px;text-align: justify;"><br /><i class="fas fa-caret-right" style="color:navy"></i> In <strong>Money Magazine’s</strong> 2019 ranking of “The Best Colleges in America, Ranked by Value” by quality, affordability and alumni success, Cal Poly Pomona rose to No. 41, up six places from a year ago. In Money’s “Most Transformative Colleges List” for 2019, which was based on the magazine’s “value-added scores for graduation rates, earnings and student loan repayment,” Cal Poly Pomona was ranked No. 14.</li>
+                        <li style="font-size: 18px; padding-bottom:5px;text-align: justify;"><br /><i class="fas fa-caret-right" style="color:navy"></i> Cal Poly Pomona ranked No. 3 in the nation among the universities that help low income students find financial success, according to the “<strong>2018 Social Mobility Index.</strong>” The university is one of only five that has ranked in the ranking’s top 20 for five consecutive years.</li>
 
-                        <li style="font-size: 18px; padding-bottom:10px;text-align: justify;"><i class="fas fa-caret-right" style="color:navy"></i> <strong>Forbes'</strong> third annual America's Best Value College list ranks Cal Poly Pomona among the best in the nation for a student's return on investment. The university was No. 59 among the 300 schools that made the list.</li>
-                        <li style="font-size: 18px; padding-bottom:10px;text-align: justify;"><i class="fas fa-caret-right" style="color:navy"></i> <strong>PayScale</strong> names Cal Poly Pomona one of the nation's "Best Value Colleges" in its 2018 College ROI Report. The university is ranked No. 96 nationally based on in-state tuition, moving up from No. 124 in 2017.</li>
-                        <li style="font-size: 18px; padding-bottom:10px;text-align: justify;"><i class="fas fa-caret-right" style="color:navy"></i> <strong>Money Magazine</strong> listed Cal Poly Pomona at No. 25 nationally among the 2019 “Best Colleges for Transfer Students.” The outlet started with educational quality, affordability, and alumni success then looked at four and six-year graduation rates as well as the share of transfer students on campus.</li>
+                        <li style="font-size: 18px; padding-bottom:5px;text-align: justify;"><br /><i class="fas fa-caret-right" style="color:navy"></i> <strong>Forbes'</strong> third annual America's Best Value College list ranks Cal Poly Pomona among the best in the nation for a student's return on investment. The university was No. 59 among the 300 schools that made the list.</li>
+                        <li style="font-size: 18px; padding-bottom:5px;text-align: justify;"><br /><i class="fas fa-caret-right" style="color:navy"></i> <strong>PayScale</strong> names Cal Poly Pomona one of the nation's "Best Value Colleges" in its 2018 College ROI Report. The university is ranked No. 96 nationally based on in-state tuition, moving up from No. 124 in 2017.</li>
+                        <li style="font-size: 18px; padding-bottom:5px;text-align: justify;"><br /><i class="fas fa-caret-right" style="color:navy"></i> <strong>Money Magazine</strong> listed Cal Poly Pomona at No. 25 nationally among the 2019 “Best Colleges for Transfer Students.” The outlet started with educational quality, affordability, and alumni success then looked at four and six-year graduation rates as well as the share of transfer students on campus.</li>
                     </ul>
                         </div>
                     </div>
-                   <div class="category-items" style="margin-top:80px;" >
+                   <div class="category-items" style="margin-top:170px;" >
                 <div class="row">
                     <!-- Single Item -->
                     <div class="col-md-12  equal-height text-center" >
@@ -103,7 +103,7 @@
         <div class="row">
             <div class="about-items">               
                 <div class="col-md-12">
-                    <p class="text-center" style="font-size: 18px;margin-bottom:100px; padding-top: 15px;" >Cal Poly Pomona is among the nation’s leaders for first-year student retention in schools with acceptance rates above 50 percent, according to The Chronicle of Higher Education. The university ranked No. 30, with 89 percent of Pomona’s first-year, full-time, undergraduate students in fall 2015 returning to campus for the 2016-2017 academic year</p>
+                    <p class="text-center" style="font-size: 18px;margin-bottom:80px; padding-top: 5px;" >Cal Poly Pomona is among the nation’s leaders for first-year student retention in schools with acceptance rates above 50 percent, according to The Chronicle of Higher Education. The university ranked No. 30, with 89 percent of Pomona’s first-year, full-time, undergraduate students in fall 2015 returning to campus for the 2016-2017 academic year</p>
                 </div>
 
             </div>

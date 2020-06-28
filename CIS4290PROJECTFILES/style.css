@@ -169,11 +169,50 @@ th, td {
     padding: 0;
 }
 
-.content p, .info p {
+/*
+.info p {
     text-align: justify;
 }
+*/
+
+/*
+.content p {
+    text-align: justify;
+}
+*/
+
 .list about-list {
     padding-bottom: 5px;
+}
+
+/* Saif Update
+    ** Menu bar fixed color - 06/25/2020 
+*/
+nav.navbar-fixed {
+  background: linear-gradient(to right, #FCF3CF 0%, rgba(41,124,64,1) 100%);
+}
+
+/**
+    Index page bottom height adjustment
+*/
+
+.h287{
+    height: 287px!important;
+}
+
+.p30 {
+    padding-bottom: 30px;
+}
+/**
+    Fixed Program Page Right Sidebar
+*/
+.top-features {
+    width: 200px !important;
+    padding-bottom: 30px;
+}
+
+.top-features > div {
+     padding: 10px 0 !important;
 }
 
 /*

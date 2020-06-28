@@ -116,6 +116,7 @@
     <Content Include="organization-faculty.aspx" />
     <Content Include="organization-directors.aspx" />
     <Content Include="program.aspx" />
+    <Content Include="resource.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -153,6 +154,13 @@
     <Compile Include="admission-tuition.aspx.vb">
       <DependentUpon>admission-tuition.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="resource.aspx.designer.vb">
+      <DependentUpon>resource.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="resource.aspx.vb">
+      <DependentUpon>resource.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Content Include="GBA_6060.aspx" />
     <Content Include="GBA_6070.aspx" />

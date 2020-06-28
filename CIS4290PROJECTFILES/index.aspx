@@ -20,7 +20,7 @@
                                         <p data-animation="animated slideInLeft">
                                             Offered mention greater fifteen one promise because nor. Why denoting speaking fat indulged saw dwelling raillery.
                                         </p>
-                                        <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="courses.aspx">View Courses</a>
+                                        <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="https://www2.calstate.edu/apply">APPLY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@
                                         <p data-animation="animated slideInLeft">
                                             Offered mention greater fifteen one promise because nor. Why denoting speaking fat indulged saw dwelling raillery.
                                         </p>
-                                        <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="courses.aspx">View Courses</a>
+                                        <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="https://www2.calstate.edu/apply">APPLY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -74,17 +74,33 @@
                     <blockquote style="text-align: justify;">
                         MS in Business Analytics program is designed to satisfy the contemporary needs in all business fields for data science technology and applications. With the development of information technology, especially the quick spread of IoT technology in consumer and supply chain fields, data explosion phenomenon is happening from small/personal businesses to multi-billion global businesses. Talents with data analytics competences are highly demanded by all organizations.
                     </blockquote>
-                    <p style="font-size: 18px; text-align: justify;">
-                        To provide in-depth and rigorous training in Business Analytics, this program emphasizes both the technical and the application perspectives of data analytics. Graduates from this program are anticipated to be able to
-                    </p>
-                    <a class="btn circle btn-theme effect btn-md" href="/about-the-program">Know More</a>
                 </div>
             </div>
+                    <div class="col-md-12 about-info" style="padding-top: 18px">
+                    <h1>Program</h1>
+                        <blockquote style="text-align: justify;padding-bottom:18px">
+                        Graduates from this program will demonstrate in-depth knowledge in database, statistics, optimization, and decision theories, and be equipped with skills in Python/R, data warehousing, data mining, text mining and web analytics, big data analytics, and predictive/prescriptive modeling focusing on business applications. The program will focus on the implication of business analytics on various business functional areas such as marketing, supply chain management, finance, information systems, and prepare students with competencies to lead data-driven changes.
+                    </blockquote>
+                        <h2 style="padding-top:18px"><span>Program Highlights</span></h2>
+                        <blockquote style="text-align: justify;">
+                        <ul class="list about-list">
+                        <li style="font-size: 18px; padding-bottom: 5px;"><i class="fas fa-angle-right"></i> One year expedited or 2 year normal length for both full-time and part-time students</li>
+                        <li style="font-size: 18px; padding-bottom: 5px;"><i class="fas fa-angle-right"></i> STEM program</li>
+                        <li style="font-size: 18px; padding-bottom: 5px;"><i class="fas fa-angle-right"></i> Project experiences throughout the program</li>
+                        <li style="font-size: 18px; padding-bottom: 5px;"><i class="fas fa-angle-right"></i> Learn powerful toolboxes (R, Python, Tableau, Hadoop etc.)</li>
+                        <li style="font-size: 18px; padding-bottom: 5px;"><i class="fas fa-angle-right"></i> Focus on business story telling competences</li>
+                        <li style="font-size: 18px; padding-bottom: 5px;"><i class="fas fa-angle-right"></i> Convenient locations at Cal Poly Pomona</li>
+                    </ul>
+                            </blockquote>
+                                            <p style="font-size: 18px; text-align: justify;">
+                        To provide in-depth and rigorous training in Business Analytics, this program emphasizes both the technical and the application perspectives of data analytics. Graduates from this program are anticipated to be able to:
+                    </p>
+                        <a class="btn circle btn-theme effect btn-md" href="/about-the-program">Know More</a>
+                </div>
         </div>
     </div>
 </div>
 <!-- End About -->
-
     <!-- Start Features
 ============================================= -->
 <div class="features-area default-padding bottom-less">
@@ -98,10 +114,8 @@
                                 <i class="fas fa-book-open"></i>
                             </div>
                             <div class="info">
-                                <h4>Expert faculty</h4>
-                                <p>
-                                    attention say frankness intention out dashwoods now curiosity. Stronger ecstatic as no judgment daughter.
-                                </p>
+                                <h4>No. 2</h4>
+                               <h4>Best Public<br /> School</h4>
                             </div>
                         </a>
                     </div>
@@ -113,10 +127,8 @@
                                 <i class="fas fa-user-graduate"></i>
                             </div>
                             <div class="info">
-                                <h4>Best Teachers</h4>
-                                <p>
-                                    attention say frankness intention out dashwoods now curiosity. Stronger ecstatic as no judgment daughter.
-                                </p>
+                                <h4>No.14</h4>
+                               <h4>Best West Regional University</h4>
                             </div>
                         </a>
                     </div>
@@ -128,10 +140,8 @@
                                 <i class="fas fa-file-alt"></i>
                             </div>
                             <div class="info">
-                                <h4>Online Courses</h4>
-                                <p>
-                                    attention say frankness intention out dashwoods now curiosity. Stronger ecstatic as no judgment daughter.
-                                </p>
+                                <h4>33</h4>
+                               <h4>Semester <br />Units</h4>
                             </div>
                         </a>
                     </div>
@@ -143,10 +153,8 @@
                                 <i class="fas fa-gift"></i>
                             </div>
                             <div class="info">
-                                <h4>Scholarship</h4>
-                                <p>
-                                    attention say frankness intention out dashwoods now curiosity. Stronger ecstatic as no judgment daughter.
-                                </p>
+                                <h4>1 Year</h4>
+                                <h4>Accelerated <br /> Program</h4>
                             </div>
                         </a>
                     </div>
@@ -156,6 +164,278 @@
     </div>
 </div>
 <!-- End Features -->
+   <!-- Start Advisor
+============================================= -->
+<div class="advisor-area carousel-shadow bg-gray default-padding bottom-less bg-cover">
+    <div class="container">
+        <div class="row">
+            <div class="site-heading text-center">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2>experienced faculty</h2>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="advisor-items text-light text-center">
+                 <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item">
+                    <div class="item">
+                        <div class="thumb">
+                            <a  href="organization-faculty#">
+                            <img src="assets/img/professor2.jpg" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. jae-min jung</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+                <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item">
+                    <div class="item">
+                        <div class="thumb">
+                            <a  href="organization-faculty#dr_drew_hwang">
+                            <img src="assets/img/aboutprofessor1.jpg" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. drew hwang</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+                <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item">
+                    <div class="item">
+                        <div class="thumb">
+                            <a  href="organization-faculty#dr_yuanjie_he">
+                            <img src="assets/img/professor1.jpg" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. yuanjie he</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+               
+                <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item">
+                    <div class="item">
+                        <div class="thumb">
+                            <a  href="organization-faculty#dr_carlos_j_navarrete">
+                            <img src="assets/img/aboutprofessor4.jpg" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. carlos j. navarrete</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+                <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item">
+                    <div class="item">
+                        <div class="thumb">
+                            <a  href="organization-faculty#dr_wadhwae">
+                            <img src="assets/img/800x800.png" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. wadhwa</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+                <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item">
+                    <div class="item">
+                        <div class="thumb">
+                            <a href="organization-faculty#dr_gerd_welke">
+                            <img src="assets/img/professor5.jpg" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. gerd welke</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+                <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item">
+                    <div class="item">
+                        <div class="thumb">
+                            <a href="organization-faculty#dr_mohammad_salehan">
+                            <img src="assets/img/aboutprofessor6.jpg" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. mohamad salehan</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+                <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item">
+                    <div class="item">
+                        <div class="thumb">
+                            <a href="organization-faculty#dr_jun_ru">
+                            <img src="assets/img/aboutprofessor7.jpg" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. jun ru</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+                <!-- single item -->
+                <div class="col-md-3 col-sm-6 single-item" style="margin-right:300px;">
+                    <div class="item">
+                        <div class="thumb">
+                            <a href="organization-faculty#dr_shuo_zeng">
+                            <img src="assets/img/professor7.jpg" alt="thumb">
+                                </a>
+                            <ul>
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                <li class="youtube">
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info">
+                            <h4>dr. shuo zeng</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end single item -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Advisor -->
 
 <!-- Start Testimonials
 ============================================= -->
@@ -254,60 +534,6 @@
 <!-- End Testimonials -->
 
 
-
-<!-- Start Fun Factor
-============================================= -->
-<div class="fun-factor-area default-padding text-center bg-fixed shadow dark-hard">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-6 item">
-                <div class="fun-fact">
-                    <div class="icon">
-                        <i class="fas fa-award"></i>
-                    </div>
-                    <div class="info">
-                        <span class="timer" data-to="4275" data-speed="5000"></span>
-                        <span class="medium">Award Winning</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 item">
-                <div class="fun-fact">
-                    <div class="icon">
-                        <i class="fas fa-user-shield"></i>
-                    </div>
-                    <div class="info">
-                        <span class="timer" data-to="1924" data-speed="5000"></span>
-                        <span class="medium">Alumni Association Members</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 item">
-                <div class="fun-fact">
-                    <div class="icon">
-                        <i class="fas fa-users"></i>
-                    </div>
-                    <div class="info">
-                        <span class="timer" data-to="2540" data-speed="5000"></span>
-                        <span class="medium">Students Enrolled</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 item">
-                <div class="fun-fact">
-                    <div class="icon">
-                        <i class="fas fa-book-open"></i>
-                    </div>
-                    <div class="info">
-                        <span class="timer" data-to="12" data-speed="5000"></span>
-                        <span class="medium">Courses</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Fun Factor -->
 
 <!-- Start Blog
 ============================================= -->
@@ -435,4 +661,138 @@
     </div>
 </div>
 <!-- End Blog -->
+    <!-- Start Resources -->
+    <div class="category-area default-padding p30">
+ <div class="container">
+ <div class="row">
+ <div class="site-heading text-center">
+ <div class="col-md-8 col-md-offset-2">
+ <h2>Resources</h2>
+ <p>
+ </p>
+ </div>
+ </div>
+ </div>
+ <div class="category-items">
+ <div class="row">
+ <!-- Single Item -->
+ <div class="col-md-4 col-sm-6 equal-height" style="height: 287px;">
+ <div class="item mariner h287">
+ <a href="https://www.cpp.edu/career/student/majors/bus.shtml">
+ <div class="item-box">
+ <div class="icon">
+ <i class="flaticon-algorithm"></i>
+ </div>
+ <div class="info">
+ <h5>Business Administration Resources</h5>
+ <p>
+Important information for students of business administration
+ </p>
+ </div>
+ </div>
+ </a>
+ </div>
+ </div>
+ <!-- End Single Item -->
+ <!-- Single Item -->
+ <div class="col-md-4 col-sm-6 equal-height" style="height: 287px;">
+ <div class="item java h287">
+ <a href="https://www.cpp.edu/career/student/student-counseling.shtml">
+ <div class="item-box">
+ <div class="icon">
+ <i class="flaticon-nanotech"></i>
+ </div>
+ <div class="info">
+ <h5>Career Counseling</h5>
+ <p>
+Book an appointment to discuss graduate school and career goals
+ </p>
+ </div>
+ </div>
+ </a>
+ </div>
+ </div>
+ <!-- End Single Item -->
+ <!-- Single Item -->
+ <div class="col-md-4 col-sm-6 equal-height" style="height: 287px;">
+ <div class="item malachite h287">
+ <a href="https://www.cpp.edu/~career/broncoconnection.shtml">
+ <div class="item-box">
+ <div class="icon">
+ <i class="flaticon-data-mining"></i>
+ </div>
+ <div class="info">
+ <h5>Handshake</h5>
+ <p>
+     Book an appointment with our career counselors or connect with students alumni and employers
+ </p>
+ </div>
+ </div>
+ </a>
+ </div>
+ </div>
+ <!-- End Single Item -->
+ <!-- Single Item -->
+ <div class="col-md-4 col-sm-6 equal-height" style="height: 287px;">
+ <div class="item brilliantrose h287">
+ <a href="https://www.cpp.edu/broncodirect/">
+ <div class="item-box">
+ <div class="icon">
+ <i class="flaticon-chip"></i>
+ </div>
+ <div class="info">
+ <h5>BroncoDirect</h5>
+ <p>
+     Cal Poly Pomona's designated student management system
+ </p>
+ </div>
+ </div>
+ </a>
+ </div>
+ </div>
+ <!-- End Single Item -->
+ <!-- Single Item -->
+ <div class="col-md-4 col-sm-6 equal-height" style="height: 287px;">
+ <div class="item casablanca h287">
+ <a href="https://www.cpp.edu/registrar/transcripts/index.shtml">
+ <div class="item-box">
+ <div class="icon">
+ <i class="flaticon-sketch"></i>
+ </div>
+ <div class="info">
+ <h5>Request Transcript</h5>
+ <p>
+ Order your transcript online
+ </p>
+ </div>
+ </div>
+ </a>
+ </div>
+ </div>
+ <!-- End Single Item -->
+ <!-- Single Item -->
+ <div class="col-md-4 col-sm-6 equal-height" style="height: 287px;">
+ <div class="item emerald h287">
+ <a href="organization-faculty.aspx">
+ <div class="item-box">
+ <div class="icon">
+ <i class="flaticon-paint-palette"></i>
+ </div>
+ <div class="info">
+ <h5>Faculty Directory</h5>
+ <p>
+ Meet Our Faculty
+ </p>
+ </div>
+ </div>
+ </a>
+ </div>
+ </div>
+ <!-- End Single Item -->
+ </div>
+ </div>
+ </div>
+ </div>
+
 </asp:Content>
+
