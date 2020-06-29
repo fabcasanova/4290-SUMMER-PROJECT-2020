@@ -66,348 +66,110 @@
                         <!--                            </nav>-->
                         <!--                        </div>-->
                         <!--                    </div>-->
-                        <!-- Start Tab Info -->
-                        <div class="tab-info">
-                            <!-- Tab Nav -->
-                            <ul class="nav nav-pills">
-                                <li class="active">
-                                    <a data-toggle="tab" href="#tab1" aria-expanded="true">Overview
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-toggle="tab" href="#tab2" aria-expanded="false">Road Map
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-toggle="tab" href="#tab3" aria-expanded="false">Instructors
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-toggle="tab" href="#tab4" aria-expanded="false">Reviews
-                                    </a>
-                                </li>
-                            </ul>
-                            <!-- End Tab Nav -->
-                            <!-- Start Tab Content -->
-                            <div class="tab-content tab-content-info" style="padding-bottom: 30px;">
-                                <!-- Single Tab -->
-                                <div id="tab1" class="tab-pane fade active in">
-                                    <div class="info title">
-                                        <!-- <h4>Curriculum</h4> -->
-                                        <p class="j-data">
-                                            The Masters of Business Analytics (MSBA) is a 33 semester credit, flexible one or two year program. Students develop into expert data analysts who can reveal trends, transform data, and uncover patterns.  Our curriculum prioritizes four interlocking models including  Business, Data, Analytics, and Experiential.
-                                        </p>
-                                        <img src="images/curriculumBuss.JPG" alt="Thumb">
-                                    </div>
-                                </div>
-                                <!-- End Single Tab -->
+                        <!-- Start tab info buttons -->
+                        <div class="container">
 
-                                <!-- Single Tab -->
-                                <div id="tab2" class="tab-pane fade" style="padding-bottom: 25px;">
-                                    <div class="info title">
-                                        <!--                                    <p>-->
-                                        <!--                                        Placing assured be if removed it besides on. Far shed each high read are men over day. Afraid we praise lively he suffer family estate is. Ample order up in of in ready. Timed blind had now those ought set often which. Or snug dull he show more true wish. No at many deny away miss evil. On in so indeed spirit an mother. Amounted old strictly but marianne admitted. People former is remove remain as.-->
-                                        <!--                                    </p>-->
-                                        <!-- <h4>List Of Courses</h4> -->
-                                        <!-- Start Course List -->
+                            <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Learning Goals</button>
+                            <div id="demo" class="collapse">
+                                <body link="#0563C1" vlink="#954F72" lang="EN-US" style='tab-interval: .5in'>
 
-                                        <h4><strong>12 Months</strong></h4>
-
-                                        <table border="1" cellspacing="1" style="width: 100%;">
-                                            <tbody>
-                                                <tr>
-                                                    <th rowspan="7" style="text-align: center">Complete Program</th>
-                                                    <th>Fall</th>
-                                                    <th>Units</th>
-                                                    <th>Spring</th>
-                                                    <th>Units</th>
-                                                    <th>Summer</th>
-                                                    <th>Units</th>
-                                                    <th>Comment</th>
-                                                </tr>
-                                                <tr>
-                                                    <td>GBA 6060</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6210</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6410</td>
-                                                    <td>3</td>
-                                                    <td rowspan="5">&nbsp;</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>GBA 6070</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6220</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6420</td>
-                                                    <td>3</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>GBA 5140</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6230</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6430</td>
-                                                    <td>3</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>GBA 6761</td>
-                                                    <td>1</td>
-                                                    <td>GBA 6762</td>
-                                                    <td>2</td>
-                                                    <td>GBA 6951</td>
-                                                    <td>3</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>Total Units</td>
-                                                    <td>10</td>
-                                                    <td>Total Units</td>
-                                                    <td>11</td>
-                                                    <td>Total Units</td>
-                                                    <td>12</td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">Total Units</td>
-                                                    <td colspan="4">33</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                        <br />
-                                        <br />
-                                        <h4><strong>24 Months</strong></h4>
-                                        <table border="1" style="width: 100%;">
-                                            <tbody>
-                                                <tr>
-                                                    <th rowspan="7" style="text-align: center">Complete Program</th>
-                                                    <th>Fall</th>
-                                                    <th>Units</th>
-                                                    <th>Spring</th>
-                                                    <th>Units</th>
-                                                    <th>Summer</th>
-                                                    <th>Units</th>
-                                                    <th>Comment</th>
-                                                </tr>
-                                                <tr>
-                                                    <td>GBA 6060</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6210</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6410</td>
-                                                    <td>3</td>
-                                                    <td rowspan="5">Year 1</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>GBA 5140</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6220</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6420</td>
-                                                    <td>3</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
-                                                <tr>
-                                                    <td>Total Units</td>
-                                                    <td>6</td>
-                                                    <td>Total Units</td>
-                                                    <td>6</td>
-                                                    <td>Total Units</td>
-                                                    <td>6</td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">Total Units</td>
-                                                    <td colspan="4">18</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                        <br />
-                                        <table border="1" style="width: 100%;">
-                                            <tbody>
-                                                <tr>
-                                                    <th rowspan="7" style="text-align: center">Complete Program</th>
-                                                    <th>Fall</th>
-                                                    <th>Units</th>
-                                                    <th>Spring</th>
-                                                    <th>Units</th>
-                                                    <th>Summer</th>
-                                                    <th>Units</th>
-                                                    <th>Comment</th>
-                                                </tr>
-                                                <tr>
-                                                    <td>GBA 6070</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6230</td>
-                                                    <td>3</td>
-                                                    <td>GBA 6430</td>
-                                                    <td>3</td>
-                                                    <td rowspan="5">Year 2</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>GBA 6761</td>
-                                                    <td>1</td>
-                                                    <td>GBA 6762</td>
-                                                    <td>2</td>
-                                                    <td>GBA 6951</td>
-                                                    <td>3</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
-                                                <tr>
-                                                    <td>Total Units</td>
-                                                    <td>4</td>
-                                                    <td>Total Units</td>
-                                                    <td>5</td>
-                                                    <td>Total Units</td>
-                                                    <td>6</td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">Total Units</td>
-                                                    <td colspan="4">15</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-
-                                    </div>
-                                </div>
-                                <!-- End Single Tab -->
-
-                                <!-- Single Tab -->
-                                <div id="tab3" class="tab-pane fade">
-                                    <div class="info title">
-                                        <div class="advisor-list-items">
-                                            <!-- Advisor Item -->
-                                            <div class="item">
-                                                <div class="thumb">
-                                                    <img src="assets/img/800x800.png" alt="Thumb">
-                                                </div>
-                                                <div class="info">
-                                                    <div class="author">
-                                                        <h4>Devid Mark</h4>
-                                                        <ul>
-                                                            <li class="facebook">
-                                                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                            </li>
-                                                            <li class="twitter">
-                                                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                                            </li>
-                                                            <li class="dribbble">
-                                                                <a href="#"><i class="fab fa-dribbble"></i></a>
-                                                            </li>
-                                                            <li class="youtube">
-                                                                <a href="#"><i class="fab fa-youtube"></i></a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <span class="designation">senior lecturer</span>
-                                                    <p>
-                                                        Several carried through an of up attempt gravity. Situation to be at offending elsewhere distrusts if. Particular use for considered projection cultivated. Worth of do doubt shall
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <!-- End Advisor Item -->
-                                            <!-- Advisor Item -->
-                                            <div class="item">
-                                                <div class="thumb">
-                                                    <img src="assets/img/800x800.png" alt="Thumb">
-                                                </div>
-                                                <div class="info">
-                                                    <div class="author">
-                                                        <h4>Bubtas Abraham</h4>
-                                                        <ul>
-                                                            <li class="facebook">
-                                                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                            </li>
-                                                            <li class="twitter">
-                                                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                                            </li>
-                                                            <li class="dribbble">
-                                                                <a href="#"><i class="fab fa-dribbble"></i></a>
-                                                            </li>
-                                                            <li class="youtube">
-                                                                <a href="#"><i class="fab fa-youtube"></i></a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <span class="designation">Java Programmer</span>
-                                                    <p>
-                                                        Several carried through an of up attempt gravity. Situation to be at offending elsewhere distrusts if. Particular use for considered projection cultivated. Worth of do doubt shall
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <!-- End Advisor Item -->
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Tab -->
-
-                                <!-- Single Tab -->
-                                <div id="tab4" class="tab-pane fade">
-                                    <div class="info title">
-                                        <div class="course-rating-list">
-                                            <div class="average-rating">
-                                                <h2>4.5</h2>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star-half-alt"></i>
-                                                <h4>28 Rating</h4>
-                                            </div>
-                                            <div class="rating-status">
-                                                <!-- Progress Bar Start -->
-                                                <div class="progress-box">
-                                                    <h5>5 Star <span class="pull-right">90%</span></h5>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" role="progressbar" data-width="90"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-box">
-                                                    <h5>4 Star <span class="pull-right">10%</span></h5>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" role="progressbar" data-width="10"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-box">
-                                                    <h5>3 Star <span class="pull-right">0%</span></h5>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" role="progressbar" data-width="0"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-box">
-                                                    <h5>2 Star <span class="pull-right">0%</span></h5>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" role="progressbar" data-width="0"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-box">
-                                                    <h5>1 Star <span class="pull-right">0%</span></h5>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" role="progressbar" data-width="0"></div>
-                                                    </div>
-                                                </div>
-                                                <!-- End Progressbar -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Tab -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="1347" style='border-collapse: collapse; table-layout: fixed; width: 1010pt'>
+                                        <col width="1091" style='mso-width-source: userset; mso-width-alt: 38085; width: 818pt'>
+                                        <col width="64" span="4" style='width: 48pt'>
+                                        <tr height="21" style='mso-height-source: userset; height: 15.5pt'>
+                                            <td height="21" width="1091" style='height: 15.5pt; width: 818pt'></td>
+                                            <td class="xl65" width="64" style='width: 48pt'>&nbsp;</td>
+                                            <td class="xl66" width="64" style='width: 48pt'>&nbsp;</td>
+                                            <td class="xl66" width="64" style='width: 48pt'>&nbsp;</td>
+                                            <td class="xl67" width="64" style='width: 48pt'>&nbsp;</td>
+                                        </tr>
+                                        <tr height="20" style='height: 14.75pt'>
+                                            <td height="20" class="xl68" style='height: 14.75pt'>Course Objectives</td>
+                                            <td class="xl69" width="64" style='border-left: none; width: 48pt'>PO1</td>
+                                            <td class="xl69" width="64" style='border-left: none; width: 48pt'>PO2</td>
+                                            <td class="xl69" width="64" style='border-left: none; width: 48pt'>PO3</td>
+                                            <td class="xl69" width="64" style='border-left: none; width: 48pt'>PO4</td>
+                                        </tr>
+                                        <tr height="21" style='height: 15.75pt'>
+                                            <td height="21" class="xl70" style='height: 15.75pt; border-top: none'><span
+                                                style='mso-fareast-font-family: "Times New Roman"'><font class="font7">&nbsp;&nbsp;
+  </font><font class="font6">Be able to differentiate the types and sources of
+  business data in modern world.</font></span></td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                        </tr>
+                                        <tr height="21" style='height: 15.75pt'>
+                                            <td height="21" class="xl70" style='height: 15.75pt; border-top: none'><span
+                                                style='mso-fareast-font-family: "Times New Roman"'><span
+                                                    style='mso-spacerun: yes'></span>Acquire an enterprise-wide view that
+  integrate multiple types and sources of business data.</span></td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                        </tr>
+                                        <tr height="21" style='height: 15.75pt'>
+                                            <td height="21" class="xl70" style='height: 15.75pt; border-top: none'><span
+                                                style='mso-fareast-font-family: "Times New Roman"'><font class="font7">&nbsp; </font><font
+                                                    class="font6">Understand how business data is modelled using relational data
+  model.</font></span></td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                        </tr>
+                                        <tr height="42" style='mso-height-source: userset; height: 31.5pt'>
+                                            <td height="42" class="xl70" style='height: 31.5pt; border-top: none'><span
+                                                style='mso-fareast-font-family: "Times New Roman"'><span
+                                                    style='mso-spacerun: yes'></span>Understand how business data is organized,
+  stored, maintained and retrieved using an appropriate relational database
+  management system.</span></td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                        </tr>
+                                        <tr height="21" style='height: 15.75pt'>
+                                            <td height="21" class="xl70" style='height: 15.75pt; border-top: none'><span
+                                                style='mso-fareast-font-family: "Times New Roman"'><font class="font7">&nbsp;&nbsp;
+  </font><font class="font6">Understand how business data is managed, analyzed
+  and derived for business intelligence.</font></span></td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                        </tr>
+                                        <tr height="42" style='height: 31.5pt'>
+                                            <td height="42" class="xl70" style='height: 31.5pt; border-top: none'><span
+                                                style='mso-fareast-font-family: "Times New Roman"'><font class="font7"><span
+  style='mso-spacerun:yes'> </span></font><font class="font6">Acquire basic
+  skills in installing, configuring and managing components in a relational
+  database management system to develop business analytic solutions.</font></span></td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>X</td>
+                                            <td class="xl69" width="64" style='border-top: none; border-left: none; width: 48pt'>&nbsp;</td>
+                                        </tr>
+                                        <![if supportMisalignedColumns]>
+ <tr height="0" style='display: none'>
+     <td width="1091" style='width: 818pt'></td>
+     <td width="64" style='width: 48pt'></td>
+     <td width="64" style='width: 48pt'></td>
+     <td width="64" style='width: 48pt'></td>
+     <td width="64" style='width: 48pt'></td>
+ </tr>
+                                        <![endif]>
+                                    </table>
                             </div>
-                            <!-- End Tab Content -->
                         </div>
+
+                        <!-- End Tab Content -->
+                    </div>
                         <!-- End tab Info -->
+                        
+                        
                     </div>
 
                    <!-- Start Sidebar -->
@@ -530,8 +292,8 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/GBA_6951.aspx">
-                                                <strong>GBA 6951</strong>
+                                            <a href="/GBA_6763.aspx">
+                                                <strong>GBA 6763</strong>
                                                 <br />
                                                 <h4>
                                                      Culminating Business Analytics Project |||: Implementing & Leading Change (3 Credits)
