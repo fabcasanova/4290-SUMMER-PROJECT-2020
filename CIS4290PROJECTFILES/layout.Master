@@ -150,8 +150,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
                         <ul class="dropdown-menu">
                             <li><a href="about-the-program">About Us</a></li>
-                            <li><a href="about-accreditation_and_ranking">Accredition and Ranking</a></li>
-                             <li><a href="#">FAQ</a></li>
+                            <li><a href="about-accreditation_and_ranking">Accredition and Ranking</a></li>                             
                         </ul>
                     </li>
                     <li>
@@ -234,7 +233,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p>&copy; Copyright 2020. All Rights Reserved by <a href="#">CalPolyPomona</a></p>
+                    <p class="footer-text">&copy; Copyright 2020. All Rights Reserved by <a href="#">CalPolyPomona</a></p>
                 </div>
                 <div class="col-md-6 text-right link">
                     <ul>

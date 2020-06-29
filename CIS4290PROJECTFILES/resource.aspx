@@ -42,11 +42,12 @@
                 <div class="col-md-12">
                     <h2>Additional Resources</h2>
                     <ul class="list resource-list">
-                        <li style="font-size: 18px; padding-bottom: 10px;"><i class="fas fa-angle-right"><a href="https://www.zdnet.com/blog/big-data/">ZDNet Bid Data</a></i><br/>ZDNet active big data blogs for education.</li>
+                         <li style="font-size: 18px; padding-bottom: 10px;"><i class="fas fa-angle-right"><a href="https://www.zdnet.com/blog/big-data/">ZDNet Bid Data</a></i><br/>ZDNet active big data blogs for education.</li>
                          <li style="font-size: 18px; padding-bottom: 10px;"><i class="fas fa-angle-right"><a href="https://www.kdnuggets.com/2015/10/best-blogs-analytics-big-data-science-machine-learning.html">KDnuggets Data Science Blogs</a></i><br/>KDnuggets active blog search for business analytics.</li>
-                        <li style="font-size: 18px; padding-bottom: 10px;"><i class="fas fa-angle-right"><a href="https://catalog.data.gov/dataset">Data.gov</a></i><br/>United States open research data sets.</li>
-                        <li style="font-size: 18px; padding-bottom: 10px;"><i class="fas fa-angle-right"><a href="https://aws.amazon.com/data-exchange/?trk=ps_a134p000003yKfgAAE&trkCampaign=ADX_Paid_Search&sc_channel=ps&sc_campaign=ADX_Awareness&sc_outcome=Digital_Paid_Media&sc_geo=NAMER&sc_country=mult&sc_publisher=Google&sc_content=OD-4N&sc_detail=%2Bpublic%20%2Bdatasc_medium=SERVICE-MKT-P|PS-GO|Non-Brand|All|PA|Analytics|Data%20Exchange|NAMER|EN|Text&s_kwcid=AL!4422!3!443259061430!b!!g!!%2Bpublic%20%2Bdata&ef_id=EAIaIQobChMIiKPCndyi6gIVWz2tBh02fwA-EAAYASAAEgIbB_D_BwE:G:s&s_kwcid=AL!4422!3!443259061430!b!!g!!%2Bpublic%20%2Bdata">
-                            Amazon's Data Exchange</a></i><br/>Amazon's data exchange subscriptions that start from little to no cost.</li>
+                         <li style="font-size: 18px; padding-bottom: 10px;"><i class="fas fa-angle-right"><a href="https://catalog.data.gov/dataset">Data.gov</a></i><br/>United States open research data sets.</li>
+                         <li style="font-size: 18px; padding-bottom: 10px;"><i class="fas fa-angle-right"><a href="https://www.businessbecause.com/news/mba-jobs/6951/average-mba-salary">What Is The Average MBA Salary In The USA?</a></i><br/>Explore the average MBA salary across industries and schools.</li>
+                         <li style="font-size: 18px; padding-bottom: 10px;"><i class="fas fa-angle-right"><a href="https://www.microstrategy.com/getmedia/db67a6c7-0bc5-41fa-82a9-bb14ec6868d6/2020-Global-State-of-Enterprise-Analytics.pdf">Global State of Enterprise Analytics</a></i><br/>An insight on how organizations utilize data and analytics.</li>
+                        
                     </ul>
                 </div>  
                     </div>
@@ -71,7 +72,7 @@
                                     <h4>
                                         <a href="https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191">10 Data and Analytics Trends to Watch in 2020</a>
                                     </h4>
-                                    
+                                    <p></p>
                                     <a href="https://www.business2community.com/business-intelligence/10-data-and-analytics-trends-to-watch-in-2020-02277191"><i class="fas fa-plus"></i> Read More</a>
                                 </div>
                             </div>
@@ -95,7 +96,7 @@
                                     <h4>
                                         <a href="http://analytics-magazine.org/the-value-of-business-analytics/">The value of business analytics</a>
                                     </h4>
-                                    
+                                    <p></p>
                                     <a href="http://analytics-magazine.org/the-value-of-business-analytics/"><i class="fas fa-plus"></i> Read More</a>
                                 </div>
                             </div>

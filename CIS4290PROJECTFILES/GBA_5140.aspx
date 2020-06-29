@@ -20,46 +20,69 @@
     </div>
     <!-- End Breadcrumb -->
 
-    <!-- Start Blog
+    <!-- Start Course Details
 ============================================= -->
-    <div class="blog-area single full-blog right-sidebar full-blog default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="blog-items">
-                    <div class="blog-content col-md-8">
-
-                        <div class="content-items">
-
-
-
-                            <!-- Single Item -->
-                            <div class="single-item" id="GBA_5140">
-                                <div class="item">
-                                    <div class="thumb">
-                                    </div>
-                                    <div class="info">
-                                        <div class="content">
-                                            <h4>
-                                                <strong>GBA 5140</strong> Statistics Essentials For Business Analytics (3 credits)
-                                            </h4>
-                                            <p>
-                                                Applications of managerial statistics for business decisions. Data collection, confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way Chi-square testing, simple linear regression, multiple linear regression, and Analysis of Variance.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Item -->
-
-
-
-                        </div>
-                         <!-- Start tab info buttons -->
-                                        <div class="container">
-
-                                            <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Learning Goals</button>
-                                            <div id="demo" class="collapse">
-                                               <ol>
+<div class="course-details-area default-padding p30">
+    <div class="container">
+        <div class="row">
+            <!-- Start Course Info -->
+            <div class="col-md-8">
+                <div class="courses-info">
+                    <h2>
+                        <strong>GBA 5140</strong> Statistics Essentials For Business Analytics (3 credits)
+                    </h2>
+                    <p>Applications of managerial statistics for business decisions. Data collection, confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way Chi-square testing, simple linear regression, multiple linear regression, and Analysis of Variance.</p>
+<!--                    <div class="course-meta">-->
+<!--                        <div class="item author">-->
+<!--                            <div class="thumb">-->
+<!--                                <a href="#"><img alt="Thumb" src="assets/img/100X100.png"></a>-->
+<!--                            </div>-->
+<!--                            <div class="desc">-->
+<!--                                <h4>Author</h4>-->
+<!--                                <a href="#">Munil Druva</a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="item category">-->
+<!--                            <h4>Category</h4>-->
+<!--                            <a href="#">Science</a>-->
+<!--                        </div>-->
+<!--                        <div class="item rating">-->
+<!--                            <h4>Review</h4>-->
+<!--                            <i class="fas fa-star"></i>-->
+<!--                            <i class="fas fa-star"></i>-->
+<!--                            <i class="fas fa-star"></i>-->
+<!--                            <i class="fas fa-star"></i>-->
+<!--                            <i class="fas fa-star-half-alt"></i>-->
+<!--                            <span>(1 Rating)</span>-->
+<!--                        </div>-->
+<!--                        <div class="item price">-->
+<!--                            <h4>Price</h4>-->
+<!--                            <span>$29.00</span>-->
+<!--                        </div>-->
+<!--                        <div class="align-right">-->
+<!--                            <a class="btn btn-theme effect btn-sm" href="#">-->
+<!--                                <i class="fas fa-chart-bar"></i> Enroll-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!--                    </div>-->
+                    
+                    <!-- Star Tab Info -->
+                    <div class="tab-info"  style="padding-top: 0px;padding-bottom: 5px;">
+                        <!-- Tab Nav -->
+                        <ul class="nav nav-pills">
+                            <li class="active">
+                                <a data-toggle="tab" href="#tab1" aria-expanded="true">
+                                    Learning Goals
+                                </a>
+                            </li>
+                            
+                        </ul>
+                        <!-- End Tab Nav -->
+                        <!-- Start Tab Content -->
+                        <div class="tab-content tab-content-info">
+                            <!-- Single Tab -->
+                            <div id="tab1" class="tab-pane fade active in">
+                                 <ol>
                                                    <li>Use sample statistics to make inferences about population parameters</li>
                                                    <li>Formulate and test hypotheses for business decisions</li>
                                                    <li>Understand the distinction between ordinal and categorical data and apply appropriate analytical techniques</li>
@@ -246,11 +269,16 @@
  </tr>
                                                     <![endif]>
                                                 </table>
-                                            </div>
-                                        </div>
+                            </div>
+                            <!-- End Single Tab -->                            
+                        </div>
+                        <!-- End Tab Content -->
+                    </div>
+                    <!-- End Tab Info -->
+                </div>
+            </div>
+            <!-- End Course Info -->
 
-                        <!-- Single Tab -->
-                                </div>
                     <!-- Start Sidebar -->
                     <div class="sidebar col-md-4">
                         <aside>

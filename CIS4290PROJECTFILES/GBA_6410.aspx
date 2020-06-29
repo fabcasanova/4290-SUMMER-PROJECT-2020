@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/layout.Master" CodeBehind="courses-new.aspx.vb" Inherits="CalPolyPomona.organization_faculty" %>
+﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/layout.Master" CodeBehind="GBA_5140.aspx.vb" Inherits="CalPolyPomona.GBA_5140" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -20,61 +20,38 @@
     </div>
     <!-- End Breadcrumb -->
 
-    <!-- Start Blog
+    <!-- Start Course Details
 ============================================= -->
-    <div class="blog-area single full-blog right-sidebar full-blog default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="blog-items">
-                    <div class="blog-content col-md-8">
-
-                        <div class="content-items">
-
-                            <!-- Single Item -->
-                            <div class="single-item" id="GBA_6410">
-                                <div class="item">
-                                    <div class="thumb">
-                                    </div>
-                                    <div class="info">
-                                        <div class="content">
-                                            <h4>
-                                                <strong>GBA 6410</strong> Social Media Analytics & Text Mining (3 Credits)
-                                            </h4>
-                                            <p>
-                                                Data collection, preparation, visualization, and analysis with software applications. Topics include: Web scraping, Application Program Interface (API) data collection, visualization, data type and structure, unstructured data analysis (a.k.a. text mining and social network analysis), and sentiment analysis. Programming language - Java, Python, R and/or others.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Item -->
-
-
-                        </div>
-                        <!-- End Blog Items -->
-
-                        <!-- Pagination -->
-                        <!--                    <div class="row">-->
-                        <!--                        <div class="col-md-12 pagi-area">-->
-                        <!--                            <nav aria-label="navigation">-->
-                        <!--                                <ul class="pagination">-->
-                        <!--                                    <li><a href="#"><i class="fas fa-angle-double-left"></i></a></li>-->
-                        <!--                                    <li class="active"><a href="#">1</a></li>-->
-                        <!--                                    <li><a href="#">2</a></li>-->
-                        <!--                                    <li><a href="#">3</a></li>-->
-                        <!--                                    <li><a href="#"><i class="fas fa-angle-double-right"></i></a></li>-->
-                        <!--                                </ul>-->
-                        <!--                            </nav>-->
-                        <!--                        </div>-->
-                        <!--                    </div>-->
-                        <!-- Start tab info buttons -->
-                        <div class="container">
-
-                            <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Learning Goals</button>
-                            <div id="demo" class="collapse">
-                                <body link="#0563C1" vlink="#954F72" lang="EN-US" style='tab-interval: .5in'>
-
-                                    <table border="0" cellpadding="0" cellspacing="0" width="2175" style='border-collapse: collapse; table-layout: fixed; width: 1632pt'>
+<div class="course-details-area default-padding p30">
+    <div class="container">
+        <div class="row">
+            <!-- Start Course Info -->
+            <div class="col-md-8">
+                <div class="courses-info">
+                    <h2>
+                        <strong>GBA 6410</strong> Social Media Analytics & Text Mining (3 Credits)
+                    </h2>
+                    <p class="j-data">
+                        Data collection, preparation, visualization, and analysis with software applications. Topics include: Web scraping, Application Program Interface (API) data collection, visualization, data type and structure, unstructured data analysis (a.k.a. text mining and social network analysis), and sentiment analysis. Programming language - Java, Python, R and/or others.
+</p>
+                    
+                    <!-- Star Tab Info -->
+                    <div class="tab-info"  style="padding-top: 0px;padding-bottom: 5px;">
+                        <!-- Tab Nav -->
+                        <ul class="nav nav-pills">
+                            <li class="active">
+                                <a data-toggle="tab" href="#tab1" aria-expanded="true">
+                                    Learning Goals
+                                </a>
+                            </li>
+                            
+                        </ul>
+                        <!-- End Tab Nav -->
+                        <!-- Start Tab Content -->
+                        <div class="tab-content tab-content-info">
+                            <!-- Single Tab -->
+                            <div id="tab1" class="tab-pane fade active in">
+                                 <table border="0" cellpadding="0" cellspacing="0" width="2175" style='border-collapse: collapse; table-layout: fixed; width: 1632pt'>
                                         <col width="1133" style='mso-width-source: userset; mso-width-alt: 39563; width: 850pt'>
                                         <col width="231" style='mso-width-source: userset; mso-width-alt: 8075; width: 174pt'>
                                         <col width="222" style='mso-width-source: userset; mso-width-alt: 7738; width: 166pt'>
@@ -200,27 +177,18 @@
                                         <![endif]>
                                     </table>
                             </div>
+                            <!-- End Single Tab -->                            
                         </div>
-
                         <!-- End Tab Content -->
-                        </div>
-                        <!-- End tab Info -->
                     </div>
+                    <!-- End Tab Info -->
+                </div>
+            </div>
+            <!-- End Course Info -->
 
-                   <!-- Start Sidebar -->
+                    <!-- Start Sidebar -->
                     <div class="sidebar col-md-4">
-                        <aside>
-                            <!--                        <div class="sidebar-item search">-->
-                            <!--                            <div class="title">-->
-                            <!--                                <h4>Search</h4>-->
-                            <!--                            </div>-->
-                            <!--                            <div class="sidebar-info">-->
-                            <!--                                <form>-->
-                            <!--                                    <input type="text" class="form-control">-->
-                            <!--                                    <input type="submit" value="search">-->
-                            <!--                                </form>-->
-                            <!--                            </div>-->
-                            <!--                        </div>-->
+                        <aside>                          
                             <div class="sidebar-item category">
                                 <div class="title">
                                     <h4>Courses</h4>
@@ -337,164 +305,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
-                            <!--                        <div class="sidebar-item recent-post">-->
-                            <!--                            <div class="title">-->
-                            <!--                                <h4>Recent Post</h4>-->
-                            <!--                            </div>-->
-                            <!--                            <ul>-->
-                            <!--                                <li>-->
-                            <!--                                    <div class="thumb">-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="Thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </div>-->
-                            <!--                                    <div class="info">-->
-                            <!--                                        <a href="#">Participate in staff meetingness manage dedicated</a>-->
-                            <!--                                        <div class="meta-title">-->
-                            <!--                                            <span class="post-date">12 Feb, 2020</span> - By <a href="#">Author</a>-->
-                            <!--                                        </div>-->
-                            <!--                                    </div>-->
-                            <!--                                </li>-->
-                            <!--                                <li>-->
-                            <!--                                    <div class="thumb">-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="Thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </div>-->
-                            <!--                                    <div class="info">-->
-                            <!--                                        <a href="#">Future Plan & Strategy for Consutruction </a>-->
-                            <!--                                        <div class="meta-title">-->
-                            <!--                                            <span class="post-date">12 Feb, 2020</span> - By <a href="#">Author</a>-->
-                            <!--                                        </div>-->
-                            <!--                                    </div>-->
-                            <!--                                </li>-->
-                            <!--                                <li>-->
-                            <!--                                    <div class="thumb">-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="Thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </div>-->
-                            <!--                                    <div class="info">-->
-                            <!--                                        <a href="#">Melancholy particular devonshire alteration</a>-->
-                            <!--                                        <div class="meta-title">-->
-                            <!--                                            <span class="post-date">12 Feb, 2020</span> - By <a href="#">Author</a>-->
-                            <!--                                        </div>-->
-                            <!--                                    </div>-->
-                            <!--                                </li>-->
-                            <!--                            </ul>-->
-                            <!--                        </div>-->
-                            <!--                        <div class="sidebar-item archives">-->
-                            <!--                            <div class="title">-->
-                            <!--                                <h4>Archives</h4>-->
-                            <!--                            </div>-->
-                            <!--                            <div class="sidebar-info">-->
-                            <!--                                <ul>-->
-                            <!--                                    <li><a href="#">Aug 2020</a></li>-->
-                            <!--                                    <li><a href="#">Sept 2020</a></li>-->
-                            <!--                                    <li><a href="#">Nov 2020</a></li>-->
-                            <!--                                    <li><a href="#">Dec 2020</a></li>-->
-                            <!--                                </ul>-->
-                            <!--                            </div>-->
-                            <!--                        </div>-->
-                            <!--                        <div class="sidebar-item gallery">-->
-                            <!--                            <div class="title">-->
-                            <!--                                <h4>Gallery</h4>-->
-                            <!--                            </div>-->
-                            <!--                            <div class="sidebar-info">-->
-                            <!--                                <ul>-->
-                            <!--                                    <li>-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li>-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li>-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li>-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li>-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li>-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <img src="assets/img/800x800.png" alt="thumb">-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                </ul>-->
-                            <!--                            </div>-->
-                            <!--                        </div>-->
-                            <!--                        <div class="sidebar-item social-sidebar">-->
-                            <!--                            <div class="title">-->
-                            <!--                                <h4>follow us</h4>-->
-                            <!--                            </div>-->
-                            <!--                            <div class="sidebar-info">-->
-                            <!--                                <ul>-->
-                            <!--                                    <li class="facebook">-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <i class="fab fa-facebook-f"></i>-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li class="twitter">-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <i class="fab fa-twitter"></i>-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li class="pinterest">-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <i class="fab fa-pinterest"></i>-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li class="g-plus">-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <i class="fab fa-google-plus-g"></i>-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li class="linkedin">-->
-                            <!--                                        <a href="#">-->
-                            <!--                                            <i class="fab fa-linkedin-in"></i>-->
-                            <!--                                        </a>-->
-                            <!--                                    </li>-->
-                            <!--                                </ul>-->
-                            <!--                            </div>-->
-                            <!--                        </div>-->
-                            <!--                        <div class="sidebar-item tags">-->
-                            <!--                            <div class="title">-->
-                            <!--                                <h4>tags</h4>-->
-                            <!--                            </div>-->
-                            <!--                            <div class="sidebar-info">-->
-                            <!--                                <ul>-->
-                            <!--                                    <li><a href="#">Fashion</a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li><a href="#">Education</a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li><a href="#">nation</a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li><a href="#">study</a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li><a href="#">health</a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li><a href="#">food</a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li><a href="#">travel</a>-->
-                            <!--                                    </li>-->
-                            <!--                                    <li><a href="#">science</a>-->
-                            <!--                                    </li>-->
-                            <!--                                </ul>-->
-                            <!--                            </div>-->
-                            <!--                        </div>-->
+                            </div>                           
                         </aside>
                     </div>
                     <!-- End Start Sidebar -->
