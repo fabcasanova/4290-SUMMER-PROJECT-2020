@@ -64,91 +64,240 @@
                                             <div id="demo" class="collapse">
                                                 <body link="#0563C1" vlink="#954F72" lang="EN-US" style='tab-interval: .5in'>
 
-                                                    <table border="0" cellpadding="0" cellspacing="0" width="814" style='border-collapse: collapse; table-layout: fixed; width: 611pt'>
-                                                        <col width="558" style='mso-width-source: userset; mso-width-alt: 19490; width: 419pt'>
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="1284" style='border-collapse: collapse; table-layout: fixed; width: 963pt'>
+                                                        <col width="1028" style='mso-width-source: userset; mso-width-alt: 35898; width: 771pt'>
                                                         <col width="64" span="4" style='width: 48pt'>
-                                                        <tr height="42" style='height: 31.75pt; mso-yfti-firstrow: yes; mso-yfti-irow: 0'>
-                                                            <td height="42" class="xl65" width="558" style='height: 31.75pt; width: 419pt'><span
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" width="1028" style='height: 14.75pt; width: 771pt'>Upon
+  completion of the course, the student should be able to:</td>
+                                                            <td class="xl65" width="64" style='border-left: none; width: 48pt'>&nbsp;</td>
+                                                            <td class="xl65" width="64" style='border-left: none; width: 48pt'>&nbsp;</td>
+                                                            <td class="xl65" width="64" style='border-left: none; width: 48pt'>&nbsp;</td>
+                                                            <td class="xl65" width="64" style='border-left: none; width: 48pt'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
+                                                                style='mso-fareast-font-family: "Times New Roman"'>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Describe the phases of the descriptive analytics cycle: Problem framing, data
+  collection, data cleaning, data visualization, data analysis, and
+  dissemination of intelligenc<span style='display: none'>e.</span></span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
+                                                                style='mso-fareast-font-family: "Times New Roman"'>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Formulate business problems and the ideal data set to solve them</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
+                                                                style='mso-fareast-font-family: "Times New Roman"'>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Use tools necessary for data collection, data visualization, and intelligence
+  dissemination, including storytelling applications.</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
+                                                                style='mso-fareast-font-family: "Times New Roman"'>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Design business performance metrics to support decision-making and business
+  performance management</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
+                                                                style='mso-fareast-font-family: "Times New Roman"'>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Use data visualization applications to support decision-making processes</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
+                                                                style='mso-fareast-font-family: "Times New Roman"'>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Develop descriptive analytics models and solutions using spreadsheet and
+  visualization applications</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
+                                                                style='mso-fareast-font-family: "Times New Roman"'>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Describe the differences between descriptive analytics and predictive
+  analytics, prescriptive analytics, social media analytics, and Big Data.<span
+      style='mso-spacerun: yes'> </span></span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
+                                                                style='mso-fareast-font-family: "Times New Roman"'>&nbsp;</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                        </tr>
+                                                        <tr height="20" style='height: 14.75pt; mso-yfti-firstrow: yes; mso-yfti-irow: 0'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'><span
                                                                 style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>Outcome</span></td>
-                                                            <td class="xl66" width="64" style='width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>PLO 1</span></td>
-                                                            <td class="xl66" width="64" style='width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>PLO 2</span></td>
-                                                            <td class="xl66" width="64" style='width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>PLO 3</span></td>
-                                                            <td class="xl66" width="64" style='width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>PLO 4</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>PLO 1</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>PLO 2</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>PLO 3</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>PLO 4</span></td>
                                                         </tr>
-                                                        <tr height="405" style='mso-height-source: userset; height: 303.5pt; mso-yfti-irow: 1'>
-                                                            <td rowspan="2" height="426" class="xl69" width="558" style='border-bottom: 1.0pt solid black; height: 319.0pt; border-top: none; width: 419pt'>Describe the phases of the
-  descriptive analytics cycle: Problem framing, data collection, data cleaning,
-  data visualization, data analysis, and dissemination of intelligence.</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'>X</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
+                                                        <tr height="20" style='height: 14.75pt; mso-yfti-irow: 1'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>Describe the
+  phases of the descriptive analytics cycle: Problem framing, data collection,
+  data cleaning, data visualization, data analysis, and dissemination of
+  intelligence.</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>X</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
                                                         </tr>
-                                                        <tr height="21" style='height: 15.5pt'>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
                                                         </tr>
-                                                        <tr height="134" style='mso-height-source: userset; height: 100.5pt; mso-yfti-irow: 2'>
-                                                            <td rowspan="2" height="155" class="xl73" width="558" style='border-bottom: 1.0pt solid black; height: 116.0pt; border-top: none; width: 419pt'>Formulate business problems and
-  the ideal data set to solve them</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'>&nbsp;</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                        <tr height="20" style='height: 14.75pt; mso-yfti-irow: 2'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>Formulate
+  business problems and the ideal data set to solve them</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
                                                         </tr>
-                                                        <tr height="21" style='height: 15.5pt'>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
                                                         </tr>
-                                                        <tr height="310" style='height: 232.75pt; mso-yfti-irow: 3'>
-                                                            <td height="310" class="xl67" width="558" style='height: 232.75pt; width: 419pt'>Use
-  tools necessary for data collection, data visualization, and intelligence
+                                                        <tr height="20" style='height: 14.75pt; mso-yfti-irow: 3'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>Use tools
+  necessary for data collection, data visualization, and intelligence
   dissemination, including storytelling applications</td>
-                                                            <td class="xl68" width="64" style='width: 48pt'>X</td>
-                                                            <td class="xl68" width="64" style='width: 48pt'>&nbsp;</td>
-                                                            <td class="xl68" width="64" style='width: 48pt'>X</td>
-                                                            <td class="xl68" width="64" style='width: 48pt'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>X</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>X</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
                                                         </tr>
-                                                        <tr height="231" style='mso-height-source: userset; height: 173.0pt; mso-yfti-irow: 4'>
-                                                            <td rowspan="2" height="252" class="xl73" width="558" style='border-bottom: 1.0pt solid black; height: 188.5pt; border-top: none; width: 419pt'>Design business performance
-  metrics to support decision-making and business performance management</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'>X</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                        <tr height="20" style='height: 14.75pt; mso-yfti-irow: 4'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>Design
+  business performance metrics to support decision-making and business
+  performance management</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>X</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
                                                         </tr>
-                                                        <tr height="21" style='height: 15.5pt'>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
                                                         </tr>
-                                                        <tr height="173" style='mso-height-source: userset; height: 129.5pt; mso-yfti-irow: 5'>
-                                                            <td rowspan="2" height="194" class="xl73" width="558" style='border-bottom: 1.0pt solid black; height: 145.0pt; border-top: none; width: 419pt'>Apply data visualization
-  applications to support decision-making processes</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'>&nbsp;</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
+                                                        <tr height="20" style='height: 14.75pt; mso-yfti-irow: 5'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>Apply data
+  visualization applications to support decision-making processes</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
                                                         </tr>
-                                                        <tr height="21" style='height: 15.5pt'>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
                                                         </tr>
-                                                        <tr height="250" style='mso-height-source: userset; height: 187.5pt; mso-yfti-irow: 6'>
-                                                            <td rowspan="2" height="271" class="xl73" width="558" style='border-bottom: 1.0pt solid black; height: 203.0pt; border-top: none; width: 419pt'>Develop descriptive analytics
-  models and solutions using spreadsheet and visualization applications</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'>&nbsp;</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
+                                                        <tr height="20" style='height: 14.75pt; mso-yfti-irow: 6'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>Develop
+  descriptive analytics models and solutions using spreadsheet and
+  visualization applications</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>&nbsp;</span></td>
                                                         </tr>
-                                                        <tr height="21" style='height: 15.5pt'>
+                                                        <tr height="20" style='height: 14.75pt'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
                                                         </tr>
-                                                        <tr height="327" style='mso-height-source: userset; height: 245.5pt; mso-yfti-irow: 7; mso-yfti-lastrow: yes'>
-                                                            <td rowspan="2" height="348" class="xl69" width="558" style='border-bottom: 1.0pt solid black; height: 261.0pt; border-top: none; width: 419pt'>Describe the differences between
-  descriptive analytics and predictive analytics, prescriptive analytics,
-  social media analytics, and Big Data.<span style='mso-spacerun: yes'> </span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'>&nbsp;</td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                            <td rowspan="2" class="xl71" width="64" style='border-bottom: 1.0pt solid black; border-top: none; width: 48pt'><span style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
-                                                        </tr>
-                                                        <tr height="21" style='height: 15.5pt'>
+                                                        <tr height="20" style='height: 14.75pt; mso-yfti-irow: 7; mso-yfti-lastrow: yes'>
+                                                            <td height="20" class="xl65" style='height: 14.75pt; border-top: none'>Describe the
+  differences between descriptive analytics and predictive analytics,
+  prescriptive analytics, social media analytics, and Big Data.<span
+      style='mso-spacerun: yes'> </span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'>&nbsp;</td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
+                                                            <td class="xl65" style='border-top: none; border-left: none'><span
+                                                                style='mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi'>X</span></td>
                                                         </tr>
                                                         <![if supportMisalignedColumns]>
  <tr height="0" style='display: none'>
-     <td width="558" style='width: 419pt'></td>
+     <td width="1028" style='width: 771pt'></td>
      <td width="64" style='width: 48pt'></td>
      <td width="64" style='width: 48pt'></td>
      <td width="64" style='width: 48pt'></td>

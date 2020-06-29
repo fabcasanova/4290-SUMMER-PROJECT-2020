@@ -69,7 +69,7 @@
                         <!-- Start tab info buttons -->
                         <div class="container">
 
-                            <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Learning Outcomes</button>
+                            <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Learning Goals</button>
                             <div id="demo" class="collapse">
 
                                 <body link="#0563C1" vlink="#954F72" lang="EN-US" style='tab-interval: .5in'>
